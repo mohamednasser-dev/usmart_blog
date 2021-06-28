@@ -1,0 +1,122 @@
+$font-stack:    Cairo, sans-serif
+$white-color: #fff
+$black-color: #000
+$gray-color: #eee
+$copyright-color: #1A1A1A
+$footer-color: #2E2F31
+$layout-breakpoint-md: 960px
+$layout-breakpoint-sm: 768px
+$layout-breakpoint-xs: 425px
+$primary-color: #f00
+
+body
+  font: 100% $font-stack
+.btn
+  border-radius: 0
+.t-white
+  color: $white-color
+.t-black
+  color: $black-color
+.t-red
+  color: $primary-color
+.bg-gray
+  background: $gray-color
+  // header
+.navbar
+  z-index: 10
+  transition: 1s
+  .nav-link
+    color: $white-color
+.navbar.scrolled
+  position: fixed
+  width: 100%
+  background: rgba(255, 255, 255, 1)
+  transition: 1s
+  .nav-link
+      color: $primary-color
+.navbar-nav
+  .mega-menu.show
+    background: rgba(255, 255, 255, 1)
+    position: fixed!important
+    width: 100%
+    display: block
+    left: 0
+    top: 70px
+body.red-nav
+  .navbar
+    .nav-link
+      color: $primary-color
+.page-header
+  position: relative
+  background-size: cover
+  top: -80px
+  padding-top: 200px
+// boxs
+.cat-box
+  background-size:cover
+  &:before 
+    content: " "
+    position: absolute
+    top: 0
+    right: 0
+    width: 100%
+    background-size: cover
+    height: 100%
+    background: rgba(0, 0, 0, 0.7)
+  .cat-box-content
+    position: relative
+    z-index: 1
+
+.copyright
+  background: $copyright-color
+.main-footer
+  background: $footer-color
+  .underline
+    padding-bottom: 20px 
+    border-bottom : 2px solid $white-color
+.foot-menu
+  list-style: none
+.sidebar
+  .underline
+    width: 100%
+    color: $primary-color
+    padding-bottom: 20px 
+    border-bottom : 2px solid $primary-color
+  .categories
+    width: 100%
+    li
+      display: block
+      width: 100%
+      padding-bottom: 10px
+      border-bottom: 2px #eee dashed
+      a
+        color: $black-color
+.testimonial_item
+  height: 500px
+  .comment
+    border-radius: 30px
+  &:after 
+    content: " "
+    background: url('../imgs/icons/comment.png')
+    background-size: contain
+    background-repeat: no-repeat
+    display: block
+    position: relative
+    height: 30px
+    left: 60px
+    top: -1px
+.postSlider
+  div
+    max-height: 500px
+    overflow: hidden
+    .caption
+      position: absolute
+      top: 300px
+      background: rgba(0,0,0,0.5)
+      border-radius: 10px
+      max-width: 500px
+@media (max-width: $layout-breakpoint-sm)
+  .navbar
+    background: rgba(255, 255, 255, 0.8)
+    .nav-link
+      color: $black-color
