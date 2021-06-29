@@ -29,7 +29,12 @@ Route::get('/marketing' , 'FrontController@marketing')->name('front.marketing');
 Route::get('/page_cms' , 'FrontController@page_cms')->name('front.page_cms');
 
 // front blog pages
+Route::get('/work/instadeal' , 'FrontController@work_instadeal')->name('front.work.instadeal');
+Route::get('/work/icome' , 'FrontController@work_icome')->name('front.work.icome');
+Route::get('/work/lacachette' , 'FrontController@work_lacachette')->name('front.work.lacachette');
+Route::get('/work/mazad' , 'FrontController@work_mazad')->name('front.work.mazad');
 
+// front blog pages
 Route::get('/blog/design_iphone' , 'BlogController@design_iphone')->name('front.blog.design_iphone');
 Route::get('/blog/design_android' , 'BlogController@design_android')->name('front.blog.design_android');
 Route::get('/blog/UAE_company' , 'BlogController@UAE_company')->name('front.blog.UAE_company');

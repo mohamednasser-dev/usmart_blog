@@ -51,5 +51,22 @@ class FrontController extends Controller
         return view('front.page-cms');
     }
 
+    //Work pages
+    public function work_instadeal(){
+        return view('front.blog.works.instadeal.index');
+    }
+
+    public function work_icome(){
+        return view('front.blog.works.icome.index');
+    }
+
+    public function work_lacachette(){
+        return view('front.blog.works.lacachette.index');
+    }
+
+    public function work_mazad(){
+        return view('front.blog.works.mazad.index');
+    }
+
 
 }

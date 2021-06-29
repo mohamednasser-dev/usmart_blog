@@ -647,13 +647,13 @@
                 <!-- Start Demo Item #01 -->
                 <div class="col-sm-6 col-lg-3 agen">
                     <div class="demo-item">
-                        <a href="http://u-smart.co/works/instadeal/{{route('front.home')}}" target="_blank">
+                        <a href="{{route('front.work.instadeal')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
                                 <img src="{{url('/')}}/public/front/images/Apps/instadeal.jpg" alt="تطبيق انستاديل" title="تطبيق اسنتاديل" />
 
                                 <figcaption class="hvr-content">
-                                    <a class="btn-launch" href="http://u-smart.co/works/instadeal/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
+                                    <a class="btn-launch" href="{{route('front.work.instadeal')}}" target="_blank">تفاصيل المشروع</a>
                                 </figcaption>
                             </figure>
                             <div class="demo-item__bottom">
@@ -667,13 +667,13 @@
                 <!-- Start Demo Item #02 -->
                 <div class="col-sm-6 col-lg-3 cor">
                     <div class="demo-item">
-                        <a href="http://u-smart.co/works/icome/{{route('front.home')}}" target="_blank">
+                        <a href="{{route('front.work.icome')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
                                 <img src="{{url('/')}}/public/front/images/Apps/icome.jpg" alt="تطبيق عشوة" title="تطبيق عشوة" />
 
                                 <figcaption class="hvr-content">
-                                    <a class="btn-launch" href="http://u-smart.co/works/icome/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
+                                    <a class="btn-launch" href="{{route('front.work.icome')}}" target="_blank">تفاصيل المشروع</a>
                                 </figcaption>
                             </figure>
                             <div class="demo-item__bottom">
@@ -687,13 +687,13 @@
                 <!-- Start Demo Item #03 -->
                 <div class="col-sm-6 col-lg-3 shop">
                     <div class="demo-item">
-                        <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}" target="_blank">
+                        <a href="{{route('front.work.lacachette')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
                                 <img src="{{url('/')}}/public/front/images/Apps/lacachette.jpg" alt="تطبيق لاكشيت" title="تطبيق لاكشيت" />
 
                                 <figcaption class="hvr-content">
-                                    <a class="btn-launch" href="http://u-smart.co/works/lacachette/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
+                                    <a class="btn-launch" href="{{route('front.work.lacachette')}}" target="_blank">تفاصيل المشروع</a>
                                 </figcaption>
                             </figure>
                             <div class="demo-item__bottom">
@@ -707,13 +707,13 @@
                 <!-- Start Demo Item #04 -->
                 <div class="col-sm-6 col-lg-3 shop">
                     <div class="demo-item">
-                        <a href="http://u-smart.co/works/mazad/{{route('front.home')}}" target="_blank">
+                        <a href="{{route('front.work.mazad')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
                                 <img src="{{url('/')}}/public/front/images/Apps/mazad.jpg" alt="تطبيق جم اقول" title="تطبيق جم اقول" />
 
                                 <figcaption class="hvr-content">
-                                    <a class="btn-launch" href="http://u-smart.co/works/mazad/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
+                                    <a class="btn-launch" href="{{route('front.work.mazad')}}" target="_blank">تفاصيل المشروع</a>
                                 </figcaption>
                             </figure>
                             <div class="demo-item__bottom">
