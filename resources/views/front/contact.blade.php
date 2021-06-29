@@ -18,19 +18,19 @@
     <meta name="keywords" content="شركة تصميم وبرمجة تطبيقات الايفون والاندوريد ,تطبيقات الجوال ,تطبيقات الهواتف الذكية ,تصميم تطبيقات الاندرويد, برمجة تطبيقات الاندرويد, تصميم تطبيقات الايفون, برمجة تطبيقات الايفون,تصميم تطبيقات الهواتف الذكية ,برمجة تطبيقات الهواتف المحمول بالكويت ,شركة تطبيقات هواتف ذكية ,شركة برمجة تطبيقات هواتف ذكية ,تصميم تطبيقات هواتف ذكية ,تصميم تطبيقات ايفون لهواتف ذكية ,برمجة تطبيق اندرويد لهاتف ذكى ,افضل شركة برمجة تطبيقات هواتف ذكية ,تطبيقات جوال ,تطبيقات هاتف ذكي ,شركة تطبيقات جوال ,تصميم تطبيقات الاندرويد , برمجة تطبيقات الاندرويد ,شركة برمجة ,شركة برمجة تطبيقات الايفون, تصميم تطبيقات الايفون, برمجة تطبيقات الايفون,شركة تصميم تطبيقات الايفون ,شركات تصميم برامج الايفون ,شركة تصميم تطبيقات الجوال ,شركات برمجة تطبيقات الجوال ,شركات تطبيقات الجوال ,شركات تصميم تطبيقات الاندرويد ,شركات برمجة تطبيقات الايفون ,شركات تصميم تطبيقات الايفون ,شركة تصميم برامج الاندرويد ,شركة تطبيقات هواتف ذكيه ,شركة لعمل تطبيقات الجوال ,شركة تطبيقات الهواتف المحمول ,يوسمارت ,شركة يو سمارت ">
 
     <script data-cfasync="false" id="ao_optimized_gfonts_config" type="text/javascript">WebFontConfig = { google: { families: ["Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Rubik:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Roboto:700,400"] }, classes: false, events: false, timeout: 1500 };</script>
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/about.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/about.css" rel="stylesheet" />
 
-    <link type="text/css" media="all" href="/front/css/bootstrap.css" rel="stylesheet">
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/bootstrap.css" rel="stylesheet">
 
-    <link type="text/css" media="all" href="/front/css/style.css" rel="stylesheet" />
-    <link type="text/css" media="all" href="/front/css/style2.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/style.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/style2.css" rel="stylesheet" />
 
 
-    <link type="text/css" media="all" href="/front/css/plugins.css" rel="stylesheet" />
-    <link type="text/css" media="all" href="/front/css/plugins2.css" rel="stylesheet" />
-    <link rel="stylesheet" media="all" type="text/css" href="/front/css/font-awesome.min.css">
-    <link rel="stylesheet" media="all" type="text/css" href="/front/css/owl.carousel.min.css">
-    <link type="text/css" media="all" href="/front/css/style.min.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/plugins.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/plugins2.css" rel="stylesheet" />
+    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/public/front/css/font-awesome.min.css">
+    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/public/front/css/owl.carousel.min.css">
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/style.min.css" rel="stylesheet" />
 
     <script type="text/javascript">
         WebFontConfig = { google: { families: ["Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Sorts Mill Goudy:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Open Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic"] }, classes: false, events: false, timeout: 1500 };
@@ -56,8 +56,8 @@
         !function (a, b, c) { function d(a, b) { var c = String.fromCharCode; l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0); var d = k.toDataURL(); l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0); var e = k.toDataURL(); return d === e } function e(a) { var b; if (!l || !l.fillText) return !1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) { case "flag": return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b); case "emoji": return b = d([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340]), !b }return !1 } function f(a) { var c = b.createElement("script"); c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c) } var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d"); for (j = Array("flag", "emoji"), c.supports = { everything: !0, everythingExceptFlag: !0 }, i = 0; i < j.length; i++)c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () { c.DOMReady = !0 }, c.supports.everything || (h = function () { c.readyCallback() }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () { "complete" === b.readyState && c.readyCallback() })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji))) }(window, document, window._wpemojiSettings);
     </script>
 
-    <link rel='stylesheet' id='dashicons-css' href='/front/css/dashicons.min.css' type='text/css' media='all' />
-    <script type='text/javascript' src='/front/js/jquery.js'></script>
+    <link rel='stylesheet' id='dashicons-css' href='{{url('/')}}/public/front/css/dashicons.min.css' type='text/css' media='all' />
+    <script type='text/javascript' src='{{url('/')}}/public/front/js/jquery.js'></script>
 
     <script data-cfasync="false" id="ao_optimized_gfonts_webfontloader" type="text/javascript">
         (function () { var wf = document.createElement('script'); wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'; wf.type = 'text/javascript'; wf.async = 'true'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wf, s); })();</script>
@@ -190,7 +190,7 @@
                                         <aside id="text-4" class="widget widget_text">
                                             <div class="textwidget text-right">
                                                 <p>
-                                                    <img src="/front/images/logo-light.png" />
+                                                    <img src="{{url('/')}}/public/front/images/logo-light.png" />
                                                 </p>
                                                 <p>يمكنك متابعة صفحات التواصل الاجتماعي الخاصة بالشركة</p>
                                                 <ul class="social">
@@ -247,9 +247,9 @@
                             <div class="col-md-2">
                                 <div class="navbar-header">
                                     <a class="navbar-brand bddex_logo" href="{{route('front.home')}}" title="">
-                                        <img src="/front/images/avas-agency-logo1.png" alt="لوجو يوسمارت" title="لوجو يوسمارت" />
+                                        <img src="{{url('/')}}/public/front/images/avas-agency-logo1.png" alt="لوجو يوسمارت" title="لوجو يوسمارت" />
                                     </a> <a class="navbar-brand bddex_sticky_logo" href="{{route('front.home')}}" title="">
-                                        <img src="/front/images/avas-agency-logo-blue.png" alt="" />
+                                        <img src="{{url('/')}}/public/front/images/avas-agency-logo-blue.png" alt="" />
                                     </a>
 
                                     <div id="bddex-hamburger" class="bddex-hamburger">
@@ -456,7 +456,7 @@
                                             <div class="rpost">
                                                 <div class="rpthumb">
                                                     <a href="http://u-smart.co/works/instadeal/{{route('front.home')}}">
-                                                        <img src="/front/images/instadeal.jpg" alt="تطبيق انستاديل" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق انستاديل" />
+                                                        <img src="{{url('/')}}/public/front/images/instadeal.jpg" alt="تطبيق انستاديل" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق انستاديل" />
                                                     </a>
                                                 </div>
                                                 <div class="rpt">
@@ -468,7 +468,7 @@
                                             </div>
                                             <div class="rpost">
                                                 <div class="rpthumb">
-                                                    <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}"><img src="/front/images/lacachette.jpeg" alt="تطبيق لاكشيت" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق لاكشيت" /></a>
+                                                    <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}"><img src="{{url('/')}}/public/front/images/lacachette.jpeg" alt="تطبيق لاكشيت" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق لاكشيت" /></a>
                                                 </div>
                                                 <div class="rpt">
                                                     <a class="post-title-color" href="http://u-smart.co/works/lacachette/{{route('front.home')}}">تطبيق شركة لاكشيت</a>
@@ -481,7 +481,7 @@
                                             <div class="rpost">
                                                 <div class="rpthumb"></div>
                                                 <div class="rpt">
-                                                    <a class="post-title-color" href="http://u-smart.co/works/mazad/{{route('front.home')}}">تطبيق جم أقول</a><span class="rpthumb"><a href="http://u-smart.co/works/mazad/{{route('front.home')}}"><a href="http://u-smart.co/works/mazad/{{route('front.home')}}"><img src="/front/images/mazad.jpg" alt="تطبيق جم اقول" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق جم اقول" /></a></a></span>تطبيق للإعلانات في مختلف المجالات
+                                                    <a class="post-title-color" href="http://u-smart.co/works/mazad/{{route('front.home')}}">تطبيق جم أقول</a><span class="rpthumb"><a href="http://u-smart.co/works/mazad/{{route('front.home')}}"><a href="http://u-smart.co/works/mazad/{{route('front.home')}}"><img src="{{url('/')}}/public/front/images/mazad.jpg" alt="تطبيق جم اقول" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق جم اقول" /></a></a></span>تطبيق للإعلانات في مختلف المجالات
                                                 </div>
 
 
@@ -561,30 +561,30 @@
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-129865377-1');</script>
-    <script type="text/javascript" defer src="/front/js/autoptimize_348a58e2349d431c108147e4871a3ee8.js"></script>
+    <script type="text/javascript" defer src="{{url('/')}}/public/front/js/autoptimize_348a58e2349d431c108147e4871a3ee8.js"></script>
 
-    <script src="/front/js/popper.min.js"></script>
-    <script src="/front/js/jquery.fancybox.js"></script>
-    <script src="/front/js/bootstrap.min.js"></script>
-    <script src="/front/js/parallaxie.js"></script>
+    <script src="{{url('/')}}/public/front/js/popper.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/jquery.fancybox.js"></script>
+    <script src="{{url('/')}}/public/front/js/bootstrap.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/parallaxie.js"></script>
 
-    <script src="/front/js/wow.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/wow.min.js"></script>
 
-    <script src="/front/js/revolution.extension.parallax.min.js"></script>
-    <script src="/front/js/revolution.extension.layeranimation.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/revolution.extension.parallax.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/revolution.extension.layeranimation.min.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129865377-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-129865377-1');</script>
-    <script type="text/javascript" defer src="/front/js/autoptimize_d9ec9df1ec7ccd42e4d8c393beb31b97.js"></script>
-    <script src="/front/js/plugins.js"></script>
-    <script src="/front/js/main.js"></script>
+    <script type="text/javascript" defer src="{{url('/')}}/public/front/js/autoptimize_d9ec9df1ec7ccd42e4d8c393beb31b97.js"></script>
+    <script src="{{url('/')}}/public/front/js/plugins.js"></script>
+    <script src="{{url('/')}}/public/front/js/main.js"></script>
 
 
-    <script src="/front/js/plugins2.js"></script>
-    <script src="/front/js/active.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/plugins2.js"></script>
+    <script src="{{url('/')}}/public/front/js/active.min.js"></script>
 
     <style>
         .chatbot {
@@ -620,7 +620,7 @@
         <div class="style4 animated no-animation ccw-no-hover-an">
             <a class="whatsapplink" target="_blank" href="https://api.whatsapp.com/send?phone=96550464494‬&text=السلام عليكم ورحمة الله وبركاته" class="nofocus">
                 <div class="chip style-4 ccw-analytics" id="style-4" data-ccw="style-4" style="background-color: #e4e4e4; color: rgba(0, 0, 0, 0.6)">
-                    <img src="/front/images/whatsapp.png" class="ccw-analytics" id="s4-icon" data-ccw="style-4" alt="WhatsApp">
+                    <img src="{{url('/')}}/public/front/images/whatsapp.png" class="ccw-analytics" id="s4-icon" data-ccw="style-4" alt="WhatsApp">
                     تواصل واتساب الآن... اضغط هنا
                 </div>
             </a>

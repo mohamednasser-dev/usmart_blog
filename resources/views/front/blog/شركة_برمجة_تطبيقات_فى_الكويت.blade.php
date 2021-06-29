@@ -21,20 +21,20 @@
     <meta property="article:tag" content="يوسمارت - USmart افضل شركة تطبيقات ( IPhone - Android )‏ " />
     <meta name="keywords" content="شركة تصميم وبرمجة تطبيقات الايفون والاندوريد ,تطبيقات الجوال ,تطبيقات الهواتف الذكية ,تصميم تطبيقات الاندرويد, برمجة تطبيقات الاندرويد, تصميم تطبيقات الايفون, برمجة تطبيقات الايفون,تصميم تطبيقات الهواتف الذكية ,برمجة تطبيقات الهواتف المحمول بالكويت ,شركة تطبيقات هواتف ذكية ,شركة برمجة تطبيقات هواتف ذكية ,تصميم تطبيقات هواتف ذكية ,تصميم تطبيقات ايفون لهواتف ذكية ,برمجة تطبيق اندرويد لهاتف ذكى ,افضل شركة برمجة تطبيقات هواتف ذكية ,تطبيقات جوال ,تطبيقات هاتف ذكي ,شركة تطبيقات جوال ,تصميم تطبيقات الاندرويد , برمجة تطبيقات الاندرويد ,شركة برمجة ,شركة برمجة تطبيقات الايفون, تصميم تطبيقات الايفون, برمجة تطبيقات الايفون,شركة تصميم تطبيقات الايفون ,شركات تصميم برامج الايفون ,شركة تصميم تطبيقات الجوال ,شركات برمجة تطبيقات الجوال ,شركات تطبيقات الجوال ,شركات تصميم تطبيقات الاندرويد ,شركات برمجة تطبيقات الايفون ,شركات تصميم تطبيقات الايفون ,شركة تصميم برامج الاندرويد ,شركة تطبيقات هواتف ذكيه ,شركة لعمل تطبيقات الجوال ,شركة تطبيقات الهواتف المحمول ,يوسمارت ,شركة يو سمارت ">
 
-    <link rel="stylesheet" type="text/css" href="/front/blog/styles/style.css">
-    <link rel="stylesheet" type="text/css" href="/front/blog/fonts/css/fontawesome-all.min.css">
-    <link rel="stylesheet" type="text/css" href="/front/blog/styles/framework.css">
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/styles/style.css">
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/fonts/css/fontawesome-all.min.css">
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/styles/framework.css">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
 
-    <link rel="stylesheet" type="text/css" href="/front/blog/css/style10.css" media="all" />
-    <link rel="stylesheet" type="text/css" href="/front/blog/css/font-awesome.min.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/css/style10.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/css/font-awesome.min.css" media="all" />
 
-    <link rel="stylesheet" type="text/css" href="/front/blog/css/style2.css" media="all" />
-    <link rel="stylesheet" type="text/css" href="/front/blog/css/style3.css" media="all" />
-    <link rel="stylesheet" type="text/css" href="/front/blog/css/style4.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="/front/blog/css/style5.css" media="all" />
-    <script src='/front/blog/j/jquery.js' type="text/javascript"></script>
-    <script src='/front/blog/j/slider.js' type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/css/style2.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/css/style3.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/css/style4.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="{{url('/')}}/public/front/blog/css/style5.css" media="all" />
+    <script src='{{url('/')}}/public/front/blog/j/jquery.js' type="text/javascript"></script>
+    <script src='{{url('/')}}/public/front/blog/j/slider.js' type="text/javascript"></script>
     <style type="text/css">
         .wpb_wrapper p a {
             padding-left: 20px !important;
@@ -68,7 +68,7 @@
         }
         -->
     </style>
-    <link rel="stylesheet" href="/front/blog/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{url('/')}}/public/front/blog/css/bootstrap.min.css">
     <script type="text/javascript">
         $(document).ready(function () {
             $("#myModal").modal('show');
@@ -371,7 +371,7 @@
                     <div class="col-md-9">
                         <article id="post-181" class="blog_post post-181 post type-post status-publish format-standard has-post-thumbnail hentry category-new-technologies category-web-designs tag-aloom tag-landing tag-shopping-intergraded">
                             <div class="entry-content blog_postcontent">
-                                <a href="#"><img class="featured-image" src="/front/blog/images/تصميم_وبرمجة_تطبيقات_الايفون_والاندوريد_8.jpg"></a>
+                                <a href="#"><img class="featured-image" src="{{url('/')}}/public/front/blog/images/تصميم_وبرمجة_تطبيقات_الايفون_والاندوريد_8.jpg"></a>
                                 <header class="entry-header animated ext-fadeInUp">
                                     <h3 class="entry-title">
                                         <a href="http://www.u-smart.co/">شركة برمجة تطبيقات في الكويت</a>
