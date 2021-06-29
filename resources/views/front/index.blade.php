@@ -18,17 +18,17 @@
     <title> يوسمارت افضل شركة تصميم وبرمجة تطبيقات الايفون وتطبيقات الاندرويد فى الكويت والسعودية وقطر ودول الخليج </title>
     <script data-cfasync="false" id="ao_optimized_gfonts_config" type="text/javascript">WebFontConfig = { google: { families: ["Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Roboto Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Rubik:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic", "Roboto:700,400"] }, classes: false, events: false, timeout: 1500 };</script>
     <!--<link type="text/css" media="all" href="css/autoptimize_b76c0a30d36cfca235dc21bf2d1dd384.css" rel="stylesheet" />-->
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/bootstrap.css" rel="stylesheet">
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/about.css" rel="stylesheet" />
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/style.css" rel="stylesheet" />
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/style2.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/bootstrap.css" rel="stylesheet">
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/about.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/style.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/style2.css" rel="stylesheet" />
 
 
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/plugins.css" rel="stylesheet" />
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/plugins2.css" rel="stylesheet" />
-    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/front/css/font-awesome.min.css">
-    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/front/css/owl.carousel.min.css">
-    <link type="text/css" media="all" href="{{url('/')}}/front/css/style.min.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/plugins.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/plugins2.css" rel="stylesheet" />
+    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/public/front/css/font-awesome.min.css">
+    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/public/front/css/owl.carousel.min.css">
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/style.min.css" rel="stylesheet" />
 
 
     <script>
@@ -50,8 +50,8 @@
     <script type="text/javascript">
         window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/x-theme.com\/avas-agency\/wp-includes\/js\/wp-emoji-release.min.js" } };
         !function (a, b, c) { function d(a, b) { var c = String.fromCharCode; l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0); var d = k.toDataURL(); l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0); var e = k.toDataURL(); return d === e } function e(a) { var b; if (!l || !l.fillText) return !1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) { case "flag": return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b); case "emoji": return b = d([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340]), !b }return !1 } function f(a) { var c = b.createElement("script"); c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c) } var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d"); for (j = Array("flag", "emoji"), c.supports = { everything: !0, everythingExceptFlag: !0 }, i = 0; i < j.length; i++)c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () { c.DOMReady = !0 }, c.supports.everything || (h = function () { c.readyCallback() }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () { "complete" === b.readyState && c.readyCallback() })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji))) }(window, document, window._wpemojiSettings);</script>
-    <link rel='stylesheet' id='dashicons-css' href='{{url('/')}}/front/css/dashicons.min.css' type='text/css' media='all' />
-    <script type='text/javascript' src='{{url('/')}}/front/js/jquery.js'></script>
+    <link rel='stylesheet' id='dashicons-css' href='{{url('/')}}/public/front/css/dashicons.min.css' type='text/css' media='all' />
+    <script type='text/javascript' src='{{url('/')}}/public/front/js/jquery.js'></script>
     <script type="text/javascript">function setREVStartSize(a) { try { var b, c = document.getElementById(a.c).parentNode.offsetWidth; if (c = 0 === c || isNaN(c) ? window.innerWidth : c, a.tabw = void 0 === a.tabw ? 0 : parseInt(a.tabw), a.thumbw = void 0 === a.thumbw ? 0 : parseInt(a.thumbw), a.tabh = void 0 === a.tabh ? 0 : parseInt(a.tabh), a.thumbh = void 0 === a.thumbh ? 0 : parseInt(a.thumbh), a.tabhide = void 0 === a.tabhide ? 0 : parseInt(a.tabhide), a.thumbhide = void 0 === a.thumbhide ? 0 : parseInt(a.thumbhide), a.mh = void 0 === a.mh || "" == a.mh ? 0 : a.mh, "fullscreen" === a.layout || "fullscreen" === a.l) b = Math.max(a.mh, window.innerHeight); else { for (var d in a.gw = Array.isArray(a.gw) ? a.gw : [a.gw], a.rl) (void 0 === a.gw[d] || 0 === a.gw[d]) && (a.gw[d] = a.gw[d - 1]); for (var d in a.gh = void 0 === a.el || "" === a.el || Array.isArray(a.el) && 0 == a.el.length ? a.gh : a.el, a.gh = Array.isArray(a.gh) ? a.gh : [a.gh], a.rl) (void 0 === a.gh[d] || 0 === a.gh[d]) && (a.gh[d] = a.gh[d - 1]); var e, f = Array(a.rl.length), g = 0; for (var d in a.tabw = a.tabhide >= c ? 0 : a.tabw, a.thumbw = a.thumbhide >= c ? 0 : a.thumbw, a.tabh = a.tabhide >= c ? 0 : a.tabh, a.thumbh = a.thumbhide >= c ? 0 : a.thumbh, a.rl) f[d] = a.rl[d] < window.innerWidth ? 0 : a.rl[d]; for (var d in e = f[0], f) e > f[d] && 0 < f[d] && (e = f[d], g = d); var h = c > a.gw[g] + a.tabw + a.thumbw ? 1 : (c - (a.tabw + a.thumbw)) / a.gw[g]; b = a.gh[g] * h + (a.tabh + a.thumbh) } void 0 === window.rs_init_css && (window.rs_init_css = document.head.appendChild(document.createElement("style"))), document.getElementById(a.c).height = b, window.rs_init_css.innerHTML += "#" + a.c + "_wrapper { height: " + b + "px }" } catch (a) { console.log("Failure at Presize of Slider:" + a) } };</script>
     <script data-cfasync="false" id="ao_optimized_gfonts_webfontloader" type="text/javascript">
         (function () { var wf = document.createElement('script'); wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js'; wf.type = 'text/javascript'; wf.async = 'true'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wf, s); })();</script>
@@ -107,7 +107,7 @@
                                         <aside id="text-4" class="widget widget_text">
                                             <div class="textwidget text-right">
                                                 <p>
-                                                    <img src="{{url('/')}}/front/images/logo-light.png" />
+                                                    <img src="{{url('/')}}/public/front/images/logo-light.png" />
                                                 </p>
                                                 <p>يمكنك متابعة صفحات التواصل الاجتماعي الخاصة بالشركة</p>
                                                 <ul class="social">
@@ -163,9 +163,9 @@
                             <div class="col-md-2">
                                 <div class="navbar-header">
                                     <a class="navbar-brand bddex_logo" href="{{route('front.home')}}" title="">
-                                        <img src="{{url('/')}}/front/images/avas-agency-logo1.png" alt="لوجو يوسمارت" title="لوجو يوسمارت" />
+                                        <img src="{{url('/')}}/public/front/images/avas-agency-logo1.png" alt="لوجو يوسمارت" title="لوجو يوسمارت" />
                                     </a> <a class="navbar-brand bddex_sticky_logo" href="{{route('front.home')}}" title="">
-                                        <img src="{{url('/')}}/front/images/avas-agency-logo-blue.png" alt="" />
+                                        <img src="{{url('/')}}/public/front/images/avas-agency-logo-blue.png" alt="" />
                                     </a>
 
                                     <div id="bddex-hamburger" class="bddex-hamburger">
@@ -200,25 +200,25 @@
                                                                                         <rs-module id="rev_slider_1_1" style="display:none;" data-version="6.0.9">
                                                                                             <rs-slides>
                                                                                                 <rs-slide data-key="rs-1" data-title="Slide" data-anim="ei:d;eo:d;s:800;r:0;t:fade;sl:d;">
-                                                                                                    <img src="{{url('/')}}/front/images/transparent.png" title="Home Agency" data-bg="c:#f9f9f9;" data-parallax="off" class="rev-slidebg" data-no-retina>
+                                                                                                    <img src="{{url('/')}}/public/front/images/transparent.png" title="Home Agency" data-bg="c:#f9f9f9;" data-parallax="off" class="rev-slidebg" data-no-retina>
                                                                                                     <rs-layer id="slider-1-slide-1-layer-4" class="rs-pxl-8" data-type="image" data-rsp_ch="on" data-xy="xo:-264px,-264px,-371px,-416px;yo:-135px,-135px,-180px,-203px;" data-text="l:22;" data-dim="w:['650px','650px','650px','650px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:5;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_penpot.png" width="650" height="500" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_penpot.png" width="650" height="500" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-5" class="rs-pxl-9" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:30px,30px,-70px,-144px;yo:-204px,-204px,-233px,-261px;" data-text="l:22;" data-dim="w:['700px','700px','700px','700px'];h:['600px','600px','600px','600px'];" data-basealign="slide" data-frame_0="x:right;y:-500px;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:6;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_flowerpot.png" width="700" height="600" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_flowerpot.png" width="700" height="600" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-6" class="rs-pxl-10" data-type="image" data-rsp_ch="on" data-xy="xo:-372px,-372px,-540px,-638px;y:b;yo:-484px,-484px,-520px,-522px;" data-text="l:22;" data-dim="w:['900px','900px','900px','900px'];h:['1000px','1000px','1000px','1000px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:650;sp:2500;sR:650;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:3850;" style="z-index:7;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_papers.png" width="900" height="1000" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_papers.png" width="900" height="1000" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-9" class="rs-pxl-12" data-type="image" data-rsp_ch="on" data-xy="xo:134px,134px,-2px,-57px;y:b;yo:67px,67px,50px,6px;" data-text="l:22;" data-dim="w:['200px','200px','200px','200px'];h:['300px','300px','300px','300px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:1050;sp:1500;sR:1050;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4450;" style="z-index:8;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_marker.png" width="200" height="300" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_marker.png" width="200" height="300" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-10" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="xo:181px,181px,30px,-39px;y:b;yo:-170px,-170px,-190px,-212px;" data-text="l:22;" data-dim="w:['300px','300px','300px','300px'];h:['400px','400px','400px','400px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:1250;sp:1500;sR:1250;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4250;" style="z-index:9;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_edding.png" width="300" height="400" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_edding.png" width="300" height="400" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-11" class="rs-pxl-12" data-type="image" data-rsp_ch="on" data-xy="xo:393px,393px,201px,81px;y:b;yo:218px,218px,183px,191px;" data-text="l:22;" data-dim="w:['50px','50px','50px','50px'];h:['100px','100px','100px','100px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:1500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5000;" style="z-index:10;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-12" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="xo:346px,346px,165px,36px;y:b;yo:255px,255px,237px,231px;" data-text="l:22;" data-dim="w:['50px','50px','50px','50px'];h:['100px','100px','100px','100px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:90deg;tp:600;" data-frame_1="rZ:310;tp:600;e:Power4.easeOut;st:550;sp:2000;sR:550;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4450;" style="z-index:11;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-7" class="rs-pxl-9" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:-364px,-364px,-479px,-553px;y:b;yo:-155px,-155px,-180px,-202px;" data-text="l:22;" data-dim="w:['730px','730px','730px','730px'];h:['520px','520px','520px','520px'];" data-basealign="slide" data-frame_0="x:right;o:1;rZ:-65deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:700;sp:1500;sR:700;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4800;" style="z-index:12;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_tablet.png" width="730" height="520" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_tablet.png" width="730" height="520" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-1-layer-8" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:222px,222px,105px,8px;y:b;yo:8px,8px,-17px,-10px;" data-text="l:22;" data-dim="w:['300px','300px','300px','300px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:right;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:1500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5000;" style="z-index:13;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_pen.png" width="300" height="500" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_pen.png" width="300" height="500" data-no-retina>
                                                                                                     </rs-layer>
                                                                                                     <rs-layer id="slider-1-slide-1-layer-1" class="rs-pxl-2" data-type="text" data-color="rgba(0, 0, 0, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-70px,-70px,-70px,-90px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,80,80,60;l:80,80,80,60;fw:700;a:center;" data-dim="w:auto,auto,auto,360px;" data-frame_0="y:-50px;sX:2;sY:2;rX:-45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:510;sp:1500;sR:510;" data-frame_999="y:30px;sX:0.8;sY:0.8;o:0;rX:45deg;tp:600;e:Power2.easeInOut;st:2650;sp:600;sR:640;" style="z-index:14;font-family: DroidKufi !important;">رواد </rs-layer>
                                                                                                     <rs-layer id="slider-1-slide-1-layer-15" class="rs-pxl-2" data-type="text" data-color="rgba(0, 0, 0, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-70px,-70px,-70px,-90px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,80,80,60;l:80,80,80,60;fw:700;a:center;" data-dim="w:auto,auto,auto,360px;" data-frame_0="y:-50px;sX:2;sY:2;rX:-45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:2940;sp:1500;sR:2940;" data-frame_999="y:30px;sX:0.8;sY:0.8;o:0;rX:45deg;tp:600;e:Power2.easeInOut;st:5100;sp:600;sR:660;" style="z-index:15;font-family: DroidKufi !important;">البرمجيات </rs-layer>
@@ -232,24 +232,24 @@
                                                                                                     <rs-layer id="slider-1-slide-1-layer-13" class="rev-scroll-btn revs-dark rs-pxl-5" data-type="button" data-xy="x:c;y:b;yo:50px;" data-dim="w:35px;h:55px;" data-actions='o:click;a:scrollbelow;sp:300;e:Linear.easeNone;' data-basealign="slide" data-rsp_bd="off" data-border="bos:solid;boc:rgba(51, 51, 51, 1);bow:3px,3px,3px,3px;bor:23px,23px,23px,23px;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:800;sp:1500;sR:800;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4700;" style="z-index:19;cursor:pointer;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"> <span> </span> </rs-layer>
                                                                                                 </rs-slide>
                                                                                                 <rs-slide data-key="rs-4" data-title="Slide" data-anim="ei:d;eo:d;s:800;r:0;t:fade;sl:d;">
-                                                                                                    <img src="{{url('/')}}/front/images/transparent.png" title="Home Agency" data-bg="c:#00c2e5;" data-parallax="off" class="rev-slidebg" data-no-retina> <rs-layer id="slider-1-slide-4-layer-4" class="rs-pxl-8" data-type="image" data-rsp_ch="on" data-xy="xo:-264px,-264px,-371px,-416px;yo:-135px,-135px,-180px,-203px;" data-text="l:22;" data-dim="w:['650px','650px','650px','650px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:5;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_penpot.png" width="650" height="500" data-no-retina>
+                                                                                                    <img src="{{url('/')}}/public/front/images/transparent.png" title="Home Agency" data-bg="c:#00c2e5;" data-parallax="off" class="rev-slidebg" data-no-retina> <rs-layer id="slider-1-slide-4-layer-4" class="rs-pxl-8" data-type="image" data-rsp_ch="on" data-xy="xo:-264px,-264px,-371px,-416px;yo:-135px,-135px,-180px,-203px;" data-text="l:22;" data-dim="w:['650px','650px','650px','650px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:5;">
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_penpot.png" width="650" height="500" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-5" class="rs-pxl-9" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:30px,30px,-70px,-144px;yo:-204px,-204px,-233px,-261px;" data-text="l:22;" data-dim="w:['700px','700px','700px','700px'];h:['600px','600px','600px','600px'];" data-basealign="slide" data-frame_0="x:right;y:-500px;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:6;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_flowerpot.png" width="700" height="600" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_flowerpot.png" width="700" height="600" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-6" class="rs-pxl-10" data-type="image" data-rsp_ch="on" data-xy="xo:-372px,-372px,-540px,-638px;y:b;yo:-484px,-484px,-520px,-522px;" data-text="l:22;" data-dim="w:['900px','900px','900px','900px'];h:['1000px','1000px','1000px','1000px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:650;sp:2500;sR:650;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:3850;" style="z-index:7;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_papers.png" width="900" height="1000" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_papers.png" width="900" height="1000" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-9" class="rs-pxl-12" data-type="image" data-rsp_ch="on" data-xy="xo:134px,134px,-2px,-57px;y:b;yo:67px,67px,50px,6px;" data-text="l:22;" data-dim="w:['200px','200px','200px','200px'];h:['300px','300px','300px','300px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:1050;sp:1500;sR:1050;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4450;" style="z-index:8;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_marker.png" width="200" height="300" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_marker.png" width="200" height="300" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-10" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="xo:181px,181px,30px,-39px;y:b;yo:-170px,-170px,-190px,-212px;" data-text="l:22;" data-dim="w:['300px','300px','300px','300px'];h:['400px','400px','400px','400px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:1250;sp:1500;sR:1250;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4250;" style="z-index:9;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_edding.png" width="300" height="400" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_edding.png" width="300" height="400" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-11" class="rs-pxl-12" data-type="image" data-rsp_ch="on" data-xy="xo:393px,393px,201px,81px;y:b;yo:218px,218px,183px,191px;" data-text="l:22;" data-dim="w:['50px','50px','50px','50px'];h:['100px','100px','100px','100px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:1500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5000;" style="z-index:10;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-12" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="xo:346px,346px,165px,36px;y:b;yo:255px,255px,237px,231px;" data-text="l:22;" data-dim="w:['50px','50px','50px','50px'];h:['100px','100px','100px','100px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:90deg;tp:600;" data-frame_1="rZ:310;tp:600;e:Power4.easeOut;st:550;sp:2000;sR:550;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4450;" style="z-index:11;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-7" class="rs-pxl-9" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:-364px,-364px,-479px,-553px;y:b;yo:-155px,-155px,-180px,-202px;" data-text="l:22;" data-dim="w:['730px','730px','730px','730px'];h:['520px','520px','520px','520px'];" data-basealign="slide" data-frame_0="x:right;o:1;rZ:-65deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:700;sp:1500;sR:700;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4800;" style="z-index:12;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_tablet.png" width="730" height="520" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_tablet.png" width="730" height="520" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-4-layer-8" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:222px,222px,105px,8px;y:b;yo:8px,8px,-17px,-10px;" data-text="l:22;" data-dim="w:['300px','300px','300px','300px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:right;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:1500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5000;" style="z-index:13;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_pen.png" width="300" height="500" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_pen.png" width="300" height="500" data-no-retina>
                                                                                                     </rs-layer>
                                                                                                     <rs-layer id="slider-1-slide-4-layer-1" class="rs-pxl-2" data-type="text" data-color="#ffffff||#ffffff||#ffffff||rgba(0, 0, 0, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-70px,-70px,-70px,-90px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,80,80,60;l:80,80,80,60;fw:700;a:center;" data-dim="w:auto,auto,auto,360px;" data-frame_0="y:-50px;sX:2;sY:2;rX:-45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:510;sp:1500;sR:510;" data-frame_999="y:30px;sX:0.8;sY:0.8;o:0;rX:45deg;tp:600;e:Power2.easeInOut;st:2650;sp:600;sR:640;" style="z-index:14;font-family: DroidKufi !important;">رواد </rs-layer>
                                                                                                     <rs-layer id="slider-1-slide-4-layer-15" class="rs-pxl-2" data-type="text" data-color="#ffffff||#ffffff||#ffffff||rgba(0, 0, 0, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-70px,-70px,-70px,-90px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,80,80,60;l:80,80,80,60;fw:700;a:center;" data-dim="w:auto,auto,auto,360px;" data-frame_0="y:-50px;sX:2;sY:2;rX:-45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:2940;sp:1500;sR:2940;" data-frame_999="y:30px;sX:0.8;sY:0.8;o:0;rX:45deg;tp:600;e:Power2.easeInOut;st:5100;sp:600;sR:660;" style="z-index:15;font-family: DroidKufi !important;">البرمجيات </rs-layer>
@@ -263,24 +263,24 @@
                                                                                                     <rs-layer id="slider-1-slide-4-layer-13" class="rev-scroll-btn revs-dark rs-pxl-5" data-type="button" data-xy="x:c;y:b;yo:50px;" data-dim="w:35px;h:55px;" data-actions='o:click;a:scrollbelow;sp:300;e:Linear.easeNone;' data-basealign="slide" data-rsp_bd="off" data-border="bos:solid;boc:rgba(51, 51, 51, 1);bow:3px,3px,3px,3px;bor:23px,23px,23px,23px;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:800;sp:1500;sR:800;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4700;" style="z-index:19;cursor:pointer;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"> <span> </span> </rs-layer>
                                                                                                 </rs-slide>
                                                                                                 <!--<rs-slide data-key="rs-5" data-title="Slide" data-anim="ei:d;eo:d;s:800;r:0;t:fade;sl:d;">
-                                                                                                    <img src="{{url('/')}}/front/images/transparent.png" title="Home Agency" data-bg="c:#e70b07;" data-parallax="off" class="rev-slidebg" data-no-retina> <rs-layer id="slider-1-slide-5-layer-4" class="rs-pxl-8" data-type="image" data-rsp_ch="on" data-xy="xo:-264px,-264px,-371px,-416px;yo:-135px,-135px,-180px,-203px;" data-text="l:22;" data-dim="w:['650px','650px','650px','650px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:5;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_penpot.png" width="650" height="500" data-no-retina>
+                                                                                                    <img src="{{url('/')}}/public/front/images/transparent.png" title="Home Agency" data-bg="c:#e70b07;" data-parallax="off" class="rev-slidebg" data-no-retina> <rs-layer id="slider-1-slide-5-layer-4" class="rs-pxl-8" data-type="image" data-rsp_ch="on" data-xy="xo:-264px,-264px,-371px,-416px;yo:-135px,-135px,-180px,-203px;" data-text="l:22;" data-dim="w:['650px','650px','650px','650px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:5;">
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_penpot.png" width="650" height="500" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-5" class="rs-pxl-9" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:30px,30px,-70px,-144px;yo:-204px,-204px,-233px,-261px;" data-text="l:22;" data-dim="w:['700px','700px','700px','700px'];h:['600px','600px','600px','600px'];" data-basealign="slide" data-frame_0="x:right;y:-500px;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:2500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4000;" style="z-index:6;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_flowerpot.png" width="700" height="600" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_flowerpot.png" width="700" height="600" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-6" class="rs-pxl-10" data-type="image" data-rsp_ch="on" data-xy="xo:-372px,-372px,-540px,-638px;y:b;yo:-484px,-484px,-520px,-522px;" data-text="l:22;" data-dim="w:['900px','900px','900px','900px'];h:['1000px','1000px','1000px','1000px'];" data-basealign="slide" data-frame_0="x:left;o:1;rZ:45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:650;sp:2500;sR:650;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:3850;" style="z-index:7;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_papers.png" width="900" height="1000" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_papers.png" width="900" height="1000" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-9" class="rs-pxl-12" data-type="image" data-rsp_ch="on" data-xy="xo:134px,134px,-2px,-57px;y:b;yo:67px,67px,50px,6px;" data-text="l:22;" data-dim="w:['200px','200px','200px','200px'];h:['300px','300px','300px','300px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:1050;sp:1500;sR:1050;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4450;" style="z-index:8;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_marker.png" width="200" height="300" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_marker.png" width="200" height="300" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-10" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="xo:181px,181px,30px,-39px;y:b;yo:-170px,-170px,-190px,-212px;" data-text="l:22;" data-dim="w:['300px','300px','300px','300px'];h:['400px','400px','400px','400px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:1250;sp:1500;sR:1250;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4250;" style="z-index:9;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_edding.png" width="300" height="400" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_edding.png" width="300" height="400" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-11" class="rs-pxl-12" data-type="image" data-rsp_ch="on" data-xy="xo:393px,393px,201px,81px;y:b;yo:218px,218px,183px,191px;" data-text="l:22;" data-dim="w:['50px','50px','50px','50px'];h:['100px','100px','100px','100px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:-90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:1500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5000;" style="z-index:10;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-12" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="xo:346px,346px,165px,36px;y:b;yo:255px,255px,237px,231px;" data-text="l:22;" data-dim="w:['50px','50px','50px','50px'];h:['100px','100px','100px','100px'];" data-basealign="slide" data-frame_0="y:bottom;o:1;rZ:90deg;tp:600;" data-frame_1="rZ:310;tp:600;e:Power4.easeOut;st:550;sp:2000;sR:550;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4450;" style="z-index:11;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_paperclip.png" width="50" height="100" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-7" class="rs-pxl-9" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:-364px,-364px,-479px,-553px;y:b;yo:-155px,-155px,-180px,-202px;" data-text="l:22;" data-dim="w:['730px','730px','730px','730px'];h:['520px','520px','520px','520px'];" data-basealign="slide" data-frame_0="x:right;o:1;rZ:-65deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:700;sp:1500;sR:700;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4800;" style="z-index:12;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_tablet.png" width="730" height="520" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_tablet.png" width="730" height="520" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-8" class="rs-pxl-11" data-type="image" data-rsp_ch="on" data-xy="x:r;xo:222px,222px,105px,8px;y:b;yo:8px,8px,-17px,-10px;" data-text="l:22;" data-dim="w:['300px','300px','300px','300px'];h:['500px','500px','500px','500px'];" data-basealign="slide" data-frame_0="x:right;o:1;rZ:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:500;sp:1500;sR:500;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:5000;" style="z-index:13;">
-                                                                                                        <img src="{{url('/')}}/front/images/header_pen.png" width="300" height="500" data-no-retina>
+                                                                                                        <img src="{{url('/')}}/public/front/images/header_pen.png" width="300" height="500" data-no-retina>
                                                                                                     </rs-layer><rs-layer id="slider-1-slide-5-layer-1" class="rs-pxl-2" data-type="text" data-color="#000000||#000000||#000000||rgba(0, 0, 0, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-70px,-70px,-70px,-90px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,80,80,60;l:80,80,80,60;fw:700;a:center;" data-dim="w:auto,auto,auto,360px;" data-frame_0="y:-50px;sX:2;sY:2;rX:-45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:510;sp:1500;sR:510;" data-frame_999="y:30px;sX:0.8;sY:0.8;o:0;rX:45deg;tp:600;e:Power2.easeInOut;st:2650;sp:600;sR:640;" style="z-index:14;font-family:Roboto;">Be Inspired. </rs-layer><rs-layer id="slider-1-slide-5-layer-15" class="rs-pxl-2" data-type="text" data-color="rgba(0, 0, 0, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-70px,-70px,-70px,-90px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,80,80,60;l:80,80,80,60;fw:700;a:center;" data-dim="w:auto,auto,auto,360px;" data-frame_0="y:-50px;sX:2;sY:2;rX:-45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:2940;sp:1500;sR:2940;" data-frame_999="y:30px;sX:0.8;sY:0.8;o:0;rX:45deg;tp:600;e:Power2.easeInOut;st:5100;sp:600;sR:660;" style="z-index:15;font-family:Roboto;">Be Brave. </rs-layer><rs-layer id="slider-1-slide-5-layer-16" class="rs-pxl-2" data-type="text" data-color="rgba(0, 0, 0, 1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-70px,-70px,-70px,-90px;" data-text="w:nowrap,nowrap,nowrap,normal;s:80,80,80,60;l:80,80,80,60;fw:700;a:center;" data-dim="w:auto,auto,auto,400px;" data-frame_0="y:-50px;sX:2;sY:2;rX:-45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:5390;sp:1500;sR:5390;" data-frame_999="y:30px;sX:0.8;sY:0.8;o:0;rX:45deg;tp:600;e:Power2.easeInOut;st:w;sp:600;sR:110;" style="z-index:16;font-family:Roboto;">Start Creating. </rs-layer><rs-layer id="slider-1-slide-5-layer-2" class="rs-pxl-2" data-type="text" data-color="#ffffff||#ffffff||#ffffff||rgba(68, 68, 68, 1)" data-rsp_ch="on" data-xy="x:c;xo:-8px;y:m;yo:10px,10px,10px,-10px;" data-text="w:nowrap,nowrap,nowrap,normal;s:20,20,20,25;l:20,20,20,30;a:center;" data-dim="w:auto,auto,auto,360px;" data-frame_0="y:50px;sX:2;sY:2;rX:45deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:600;sp:1500;sR:600;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4900;" style="z-index:17;font-family:Roboto;">You have Only One Decision Away from a Totally Different Life. </rs-layer><rs-layer id="slider-1-slide-5-layer-3" class="rev-btn rs-pxl-3" data-type="button" data-color="rgba(255, 255, 255, 1)" data-xy="x:c;y:m;yo:92px;" data-text="s:15;l:50;fw:700;" data-actions='o:click;a:scrollbelow;sp:300;e:Linear.easeNone;' data-rsp_bd="off" data-padding="r:30;l:30;" data-border="bos:solid;boc:rgba(0, 0, 0, 1);bow:2px,2px,,2px;bor:3px,3px,3px,3px;" data-frame_0="y:100px;rX:90deg;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:700;sp:1500;sR:700;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4800;" data-frame_hover="c:#000;bgc:rgba(32,85,199,0);boc:#000;bor:3px,3px,3px,3px;bos:solid;bow:2px,2px,2px,2px;oX:50;oY:50;sp:150;e:Power1.easeInOut;" style="z-index:18;background-color:#000000;font-family:Roboto;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:2px;">CONTINUE </rs-layer><rs-layer id="slider-1-slide-5-layer-13" class="rev-scroll-btn revs-dark rs-pxl-5" data-type="button" data-xy="x:c;y:b;yo:50px;" data-dim="w:35px;h:55px;" data-actions='o:click;a:scrollbelow;sp:300;e:Linear.easeNone;' data-basealign="slide" data-rsp_bd="off" data-border="bos:solid;boc:rgba(51, 51, 51, 1);bow:3px,3px,3px,3px;bor:23px,23px,23px,23px;" data-frame_0="y:-50px;tp:600;" data-frame_1="tp:600;e:Power4.easeOut;st:800;sp:1500;sR:800;" data-frame_999="o:0;tp:600;e:nothing;st:w;sR:4700;" style="z-index:19;cursor:pointer;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;"> <span> </span> </rs-layer>
                                                                                                 </rs-slide>-->
                                                                                             </rs-slides> <rs-progress class="rs-bottom" style="visibility: hidden !important;"></rs-progress>
@@ -384,7 +384,7 @@
 
                         <div class="col-lg-6 order-1 order-lg-2">
                             <div class="about-image">
-                                <img src="{{url('/')}}/front/images/about-image.png" alt="فريق عمل تطبيقات الاندرويد" title="فريق عمل تطبيقات الاندرويد">
+                                <img src="{{url('/')}}/public/front/images/about-image.png" alt="فريق عمل تطبيقات الاندرويد" title="فريق عمل تطبيقات الاندرويد">
                                 <div class="tm-videobutton">
                                     <a href="https://youtu.be/QMtERNeVw2s">
                                         <span><i class="fas fa-play"></i></span>
@@ -445,7 +445,7 @@
                         <div class="col-lg-6">
                             <div class="tm-testimonial2-videoslider">
                                 <div class="tm-testimonial2-video">
-                                    <img src="{{url('/')}}/front/images/chamagool2.jpg" alt="تقييم تطبيق جم اقول" title="تقييم تطبيق جم اقول">
+                                    <img src="{{url('/')}}/public/front/images/chamagool2.jpg" alt="تقييم تطبيق جم اقول" title="تقييم تطبيق جم اقول">
                                     <div class="tm-videobutton">
                                         <a href="https://www.youtube.com/watch?v=z2DXc9GEa3k">
                                             <span><i class="fas fa-play"></i></span>
@@ -454,7 +454,7 @@
                                 </div>
 
                                 <div class="tm-testimonial2-video">
-                                    <img src="{{url('/')}}/front/images/lacachette3.jpeg" alt="تقييم تطبيق لاكشيت" title="تقييم تطبيق لاكشيت">
+                                    <img src="{{url('/')}}/public/front/images/lacachette3.jpeg" alt="تقييم تطبيق لاكشيت" title="تقييم تطبيق لاكشيت">
                                     <div class="tm-videobutton">
                                         <a href="https://www.youtube.com/watch?v=WM3oIafV-OY">
                                             <span><i class="fas fa-play"></i></span>
@@ -463,7 +463,7 @@
                                 </div>
 
                                 <div class="tm-testimonial2-video">
-                                    <img src="{{url('/')}}/front/images/smart.jpg" alt="تقييم تطبيق pfsq8" title="تقييم تطبيق pfsq8">
+                                    <img src="{{url('/')}}/public/front/images/smart.jpg" alt="تقييم تطبيق pfsq8" title="تقييم تطبيق pfsq8">
                                     <div class="tm-videobutton">
                                         <a href="https://www.youtube.com/watch?v=gvVXh3Eoe6g">
                                             <span><i class="fas fa-play"></i></span>
@@ -483,7 +483,7 @@
 
                                     <div class="tm-testimonial2-author">
                                         <div class="tm-testimonial2-authorimage">
-                                            <img src="{{url('/')}}/front/images/chamagool.jpeg" alt="تطبيق جم اقول " title="تطبيق جم اقول ">
+                                            <img src="{{url('/')}}/public/front/images/chamagool.jpeg" alt="تطبيق جم اقول " title="تطبيق جم اقول ">
                                         </div>
                                         <h5 style="font-family: DroidKufi !important;">أ. موسى عيد</h5>
                                         <p>صاحب تطبيق جم أقول</p>
@@ -498,7 +498,7 @@
                                     </p>
                                     <div class="tm-testimonial2-author">
                                         <div class="tm-testimonial2-authorimage">
-                                            <img src="{{url('/')}}/front/images/lacachette2.jpg" alt="تطبيق لاكشيت" title="تطبيق لاكشيت">
+                                            <img src="{{url('/')}}/public/front/images/lacachette2.jpg" alt="تطبيق لاكشيت" title="تطبيق لاكشيت">
                                         </div>
                                         <h5 style="font-family: DroidKufi !important;">أ. أحمد إبراهيم</h5>
                                         <p>مسئول تطبيق لاكشيت</p>
@@ -512,7 +512,7 @@
                                     </p>
                                     <div class="tm-testimonial2-author">
                                         <div class="tm-testimonial2-authorimage">
-                                            <img src="{{url('/')}}/front/images/logo2.jpeg" alt="تطبيق pfsq8" title="تطبيق pfsq8">
+                                            <img src="{{url('/')}}/public/front/images/logo2.jpeg" alt="تطبيق pfsq8" title="تطبيق pfsq8">
                                         </div>
                                         <h5 style="font-family: DroidKufi !important;">أ. فالح الهندال</h5>
                                         <p>صاحب تطبيق السيارات</p>
@@ -530,7 +530,7 @@
 
             <br /><br />
             <!-- Funfact Area -->
-            <div class="tm-section funfact-area tm-padding-section" data-bgimage="{{url('/')}}/front/images/funfact-bg.jpg"
+            <div class="tm-section funfact-area tm-padding-section" data-bgimage="{{url('/')}}/public/front/images/funfact-bg.jpg"
                  data-black-overlay="8">
                 <div class="container">
                     <div class="row">
@@ -650,7 +650,7 @@
                         <a href="http://u-smart.co/works/instadeal/{{route('front.home')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
-                                <img src="{{url('/')}}/front/images/Apps/instadeal.jpg" alt="تطبيق انستاديل" title="تطبيق اسنتاديل" />
+                                <img src="{{url('/')}}/public/front/images/Apps/instadeal.jpg" alt="تطبيق انستاديل" title="تطبيق اسنتاديل" />
 
                                 <figcaption class="hvr-content">
                                     <a class="btn-launch" href="http://u-smart.co/works/instadeal/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
@@ -670,7 +670,7 @@
                         <a href="http://u-smart.co/works/icome/{{route('front.home')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
-                                <img src="{{url('/')}}/front/images/Apps/icome.jpg" alt="تطبيق عشوة" title="تطبيق عشوة" />
+                                <img src="{{url('/')}}/public/front/images/Apps/icome.jpg" alt="تطبيق عشوة" title="تطبيق عشوة" />
 
                                 <figcaption class="hvr-content">
                                     <a class="btn-launch" href="http://u-smart.co/works/icome/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
@@ -690,7 +690,7 @@
                         <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
-                                <img src="{{url('/')}}/front/images/Apps/lacachette.jpg" alt="تطبيق لاكشيت" title="تطبيق لاكشيت" />
+                                <img src="{{url('/')}}/public/front/images/Apps/lacachette.jpg" alt="تطبيق لاكشيت" title="تطبيق لاكشيت" />
 
                                 <figcaption class="hvr-content">
                                     <a class="btn-launch" href="http://u-smart.co/works/lacachette/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
@@ -710,7 +710,7 @@
                         <a href="http://u-smart.co/works/mazad/{{route('front.home')}}" target="_blank">
                             <div class="demo-item__top"></div>
                             <figure class="demo-item__middile">
-                                <img src="{{url('/')}}/front/images/Apps/mazad.jpg" alt="تطبيق جم اقول" title="تطبيق جم اقول" />
+                                <img src="{{url('/')}}/public/front/images/Apps/mazad.jpg" alt="تطبيق جم اقول" title="تطبيق جم اقول" />
 
                                 <figcaption class="hvr-content">
                                     <a class="btn-launch" href="http://u-smart.co/works/mazad/{{route('front.home')}}" target="_blank">تفاصيل المشروع</a>
@@ -934,7 +934,7 @@
                                     <div class="rpost">
                                         <div class="rpthumb">
                                             <a href="http://u-smart.co/works/instadeal/{{route('front.home')}}">
-                                                <img src="{{url('/')}}/front/images/instadeal.jpg" alt="تطبيق انستاديل" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق انستاديل" />
+                                                <img src="{{url('/')}}/public/front/images/instadeal.jpg" alt="تطبيق انستاديل" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق انستاديل" />
                                             </a>
                                         </div>
                                         <div class="rpt">
@@ -946,7 +946,7 @@
                                     </div>
                                     <div class="rpost">
                                         <div class="rpthumb">
-                                            <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}"><img src="{{url('/')}}/front/images/lacachette.jpeg" alt="تطبيق انستاديل" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق لاكشيت" /></a>
+                                            <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}"><img src="{{url('/')}}/public/front/images/lacachette.jpeg" alt="تطبيق انستاديل" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق لاكشيت" /></a>
                                         </div>
                                         <div class="rpt">
                                             <a class="post-title-color" href="http://u-smart.co/works/lacachette/{{route('front.home')}}">تطبيق شركة لاكشيت</a>
@@ -959,7 +959,7 @@
                                     <div class="rpost">
                                         <div class="rpthumb">
                                             <a href="http://u-smart.co/works/mazad/{{route('front.home')}}">
-                                                <img src="{{url('/')}}/front/images/mazad.jpg" alt="" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق جم اقول" />
+                                                <img src="{{url('/')}}/public/front/images/mazad.jpg" alt="" width="100" height="75" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" title="تطبيق جم اقول" />
                                             </a>
                                         </div>
                                         <div class="rpt">
@@ -1028,28 +1028,28 @@
 
         </div>
     </div>
-    <script src="{{url('/')}}/front/js/popper.min.js"></script>
-    <script src="{{url('/')}}/front/js/jquery.fancybox.js"></script>
-    <script src="{{url('/')}}/front/js/bootstrap.min.js"></script>
-    <script src="{{url('/')}}/front/js/parallaxie.js"></script>
+    <script src="{{url('/')}}/public/front/js/popper.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/jquery.fancybox.js"></script>
+    <script src="{{url('/')}}/public/front/js/bootstrap.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/parallaxie.js"></script>
 
-    <script src="{{url('/')}}/front/js/wow.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/wow.min.js"></script>
 
-    <script src="{{url('/')}}/front/js/revolution.extension.parallax.min.js"></script>
-    <script src="{{url('/')}}/front/js/revolution.extension.layeranimation.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/revolution.extension.parallax.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/revolution.extension.layeranimation.min.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129865377-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-129865377-1');</script>
-    <script type="text/javascript" defer src="{{url('/')}}/front/js/autoptimize_d9ec9df1ec7ccd42e4d8c393beb31b97.js"></script>
-    <script src="{{url('/')}}/front/js/plugins.js"></script>
-    <script src="{{url('/')}}/front/js/main.js"></script>
+    <script type="text/javascript" defer src="{{url('/')}}/public/front/js/autoptimize_d9ec9df1ec7ccd42e4d8c393beb31b97.js"></script>
+    <script src="{{url('/')}}/public/front/js/plugins.js"></script>
+    <script src="{{url('/')}}/public/front/js/main.js"></script>
 
 
-    <script src="{{url('/')}}/front/js/plugins2.js"></script>
-    <script src="{{url('/')}}/front/js/active.min.js"></script>
+    <script src="{{url('/')}}/public/front/js/plugins2.js"></script>
+    <script src="{{url('/')}}/public/front/js/active.min.js"></script>
 
     <!--<style>
         .whatsApp {
@@ -1138,7 +1138,7 @@
         <a href="https://wa.me/96555411928">
             <h6>
                 ابدأ محادثة واتساب
-                <img src="{{url('/')}}/front/images/whatsapp.png" />
+                <img src="{{url('/')}}/public/front/images/whatsapp.png" />
             </h6>
         </a>
     </div>-->
@@ -1177,7 +1177,7 @@
         <div class="style4 animated no-animation ccw-no-hover-an">
             <a class="whatsapplink" target="_blank" href="https://api.whatsapp.com/send?phone=96550464494&text=السلام عليكم ورحمة الله وبركاته" class="nofocus">
                 <div class="chip style-4 ccw-analytics" id="style-4" data-ccw="style-4" style="background-color: #e4e4e4; color: rgba(0, 0, 0, 0.6)">
-                    <img src="{{url('/')}}/front/images/whatsapp.png" class="ccw-analytics" id="s4-icon" data-ccw="style-4" alt="WhatsApp">
+                    <img src="{{url('/')}}/public/front/images/whatsapp.png" class="ccw-analytics" id="s4-icon" data-ccw="style-4" alt="WhatsApp">
                     تواصل واتساب الآن... اضغط هنا
                 </div>
             </a>
