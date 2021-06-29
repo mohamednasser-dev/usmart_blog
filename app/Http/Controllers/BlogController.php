@@ -41,6 +41,32 @@ class BlogController extends Controller
         return view('category' , ['data' => $data]);
     }
 
+    //front blog pages
+
+    public function design_iphone(){
+        return view('front.blog.تصميم_تطبيقات_الايفون');
+    }
+
+    public function design_android(){
+        return view('front.blog.تصميم_تطبيق_اندرويد');
+    }
+
+    public function UAE_company(){
+        return view('front.blog.شركة_برمجة_تطبيقات_فى_الامارات');
+    }
+
+    public function Saudi_company(){
+        return view('front.blog.شركة_برمجة_تطبيقات_فى_السعودية');
+    }
+
+    public function Qatar_company(){
+        return view('front.blog.شركة_برمجة_تطبيقات_فى_قطر');
+    }
+
+    public function kuwit_company(){
+        return view('front.blog.شركة_برمجة_تطبيقات_فى_الكويت');
+    }
+
 
 
 }

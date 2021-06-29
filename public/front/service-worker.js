@@ -1,0 +1,1 @@
+importScripts("https://u-smart-co.pushengage.com/service-worker.js?ver=2.0.0");

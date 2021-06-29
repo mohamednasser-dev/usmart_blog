@@ -13,10 +13,31 @@
 
 Route::get('/setlocale/{locale}',function($lang){
     Session::put('locale',$lang);
-    return redirect()->back();   
+    return redirect()->back();
 });
 
-Route::get('/' , 'HomeController@index');
+// front pages
+Route::get('/' , 'FrontController@index')->name('front.home');
+Route::get('/about' , 'FrontController@about')->name('front.about');
+Route::get('/our_works' , 'FrontController@our_works')->name('front.our_works');
+Route::get('/contact' , 'FrontController@contact')->name('front.contact');
+Route::get('/hosting' , 'FrontController@hosting')->name('front.hosting');
+Route::get('/mobile_applications' , 'FrontController@mobile_applications')->name('front.mobile_applications');
+Route::get('/video_ads' , 'FrontController@video_ads')->name('front.video_ads');
+Route::get('/web_design' , 'FrontController@web_design')->name('front.web_design');
+Route::get('/marketing' , 'FrontController@marketing')->name('front.marketing');
+Route::get('/page_cms' , 'FrontController@page_cms')->name('front.page_cms');
+
+// front blog pages
+
+Route::get('/blog/design_iphone' , 'BlogController@design_iphone')->name('front.blog.design_iphone');
+Route::get('/blog/design_android' , 'BlogController@design_android')->name('front.blog.design_android');
+Route::get('/blog/UAE_company' , 'BlogController@UAE_company')->name('front.blog.UAE_company');
+Route::get('/blog/Saudi_company' , 'BlogController@Saudi_company')->name('front.blog.Saudi_company');
+Route::get('/blog/Qatar_company' , 'BlogController@Qatar_company')->name('front.blog.Qatar_company');
+Route::get('/blog/kuwit_company' , 'BlogController@kuwit_company')->name('front.blog.kuwit_company');
+
+Route::get('/blog' , 'HomeController@index')->name('front.blog');
 Route::get('/blog/{url}' , 'BlogController@getblog');
 Route::get('/blog/category/{url}' , 'BlogController@getblogofcategory');
 
@@ -27,7 +48,7 @@ Route::get('/blog/category/{url}' , 'BlogController@getblogofcategory');
 Route::group([
     'middleware'=>'language',
     'prefix' => "admin-panel",
-    'namespace' => "Admin"  
+    'namespace' => "Admin"
 ] , function($router){
 
     Route::get('' ,'HomeController@show');
@@ -35,7 +56,7 @@ Route::group([
     Route::post('login' , 'AdminController@postlogin');
     Route::get('logout' , 'AdminController@logout');
     Route::get('profile' , 'AdminController@profile');
-    Route::post('profile' , 'AdminController@updateprofile');    
+    Route::post('profile' , 'AdminController@updateprofile');
     Route::get('databasebackup' , 'AdminController@backup');
 
 
@@ -93,7 +114,7 @@ Route::group([
          Route::get('show' , 'CategoryController@show');
          Route::get('edit/{id}' , 'CategoryController@EditGet');
          Route::post('edit/{id}' , 'CategoryController@EditPost');
-         Route::get('delete/{id}' , 'CategoryController@delete');        
+         Route::get('delete/{id}' , 'CategoryController@delete');
     });
 
 

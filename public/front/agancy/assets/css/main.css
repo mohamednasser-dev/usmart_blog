@@ -1,0 +1,84 @@
+body {
+  font: 100% Cairo, sans-serif; }
+
+.btn {
+  border-radius: 0; }
+
+.t-white {
+  color: #fff; }
+
+.t-black {
+  color: #000; }
+
+.navbar {
+  z-index: 10; }
+
+.navbar .nav-link {
+  color: #fff; }
+
+body.red-nav .navbar .nav-link {
+  color: #f00; }
+
+.page-header {
+  position: relative;
+  background-size: cover;
+  top: -80px;
+  padding-top: 200px; }
+
+.cat-box:before {
+  content: " ";
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100%;
+  background-size: cover;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7); }
+.cat-box .cat-box-content {
+  position: relative;
+  z-index: 1; }
+
+.copyright {
+  background: #1A1A1A; }
+
+.main-footer {
+  background: #2E2F31; }
+  .main-footer .underline {
+    padding-bottom: 20px;
+    border-bottom: 2px solid #fff; }
+
+.foot-menu {
+  list-style: none; }
+
+.sidebar .underline {
+  width: 100%;
+  color: #f00;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #f00; }
+.sidebar .categories {
+  width: 100%; }
+  .sidebar .categories li {
+    display: block;
+    width: 100%;
+    padding-bottom: 10px;
+    border-bottom: 2px #eee dashed; }
+    .sidebar .categories li a {
+      color: #000; }
+
+.postSlider div {
+  max-height: 500px;
+  overflow: hidden; }
+  .postSlider div .caption {
+    position: absolute;
+    top: 300px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    max-width: 500px; }
+
+@media (max-width: 768px) {
+  .navbar {
+    background: rgba(255, 255, 255, 0.8); }
+    .navbar .nav-link {
+      color: #000; } }
+
+/*# sourceMappingURL=main.css.map */

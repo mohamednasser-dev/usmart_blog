@@ -23,7 +23,4 @@ class HomeController extends Controller
         $data['ads'] = Ad::inRandomOrder()->get();
         return view('home' , ['data' => $data]);
     }
-
-
-
 }
