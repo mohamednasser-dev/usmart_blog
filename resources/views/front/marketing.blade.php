@@ -887,12 +887,12 @@
                             <aside id="tag_cloud-4" class="widget widget_tag_cloud">
                                 <h3 class="widget-title">الوسوم</h3>
                                 <div class="tagcloud">
-                                    <a href="{{route('front.blog.design_iphone')}}" class="tag-cloud-link tag-link-30 tag-link-position-1" style="font-size: 16.4pt;" aria-label="Design IPhone Apps">تطبيقات آيفون</a>
-                                    <a href="{{route('front.blog.design_android')}}" class="tag-cloud-link tag-link-42 tag-link-position-3" style="font-size: 8pt;" aria-label="Design android apps">تطبيقات أندرويد</a>
-                                    <a href="{{route('front.blog.UAE_company')}}" class="tag-cloud-link tag-link-28 tag-link-position-4" style="font-size: 16.4pt;" aria-label="Programming company in UAE">شركة برمجة بالإمارات</a>
-                                    <a href="{{route('front.blog.Saudi_company')}}" class="tag-cloud-link tag-link-39 tag-link-position-5" style="font-size: 16.4pt;" aria-label="Programming company in Saudi Arabia">شركة برمجة بالسعودية</a>
-                                    <a href="{{route('front.blog.kuwit_company')}}" class="tag-cloud-link tag-link-36 tag-link-position-6" style="font-size: 8pt;" aria-label="Programming company in Kuwait">شركة برمجة بالكويت</a>
-                                    <a href="{{route('front.blog.Qatar_company')}}" class="tag-cloud-link tag-link-33 tag-link-position-7" style="font-size: 8pt;" aria-label="Programming company in Qatar">شركة برمجة بقطر</a>
+                                    <a href="{{route('front.home')}}" class="tag-cloud-link tag-link-30 tag-link-position-1" style="font-size: 16.4pt;" aria-label="Design IPhone Apps">تطبيقات آيفون</a>
+                                    <a href="{{route('front.home')}}" class="tag-cloud-link tag-link-42 tag-link-position-3" style="font-size: 8pt;" aria-label="Design android apps">تطبيقات أندرويد</a>
+                                    <a href="{{route('front.home')}}" class="tag-cloud-link tag-link-28 tag-link-position-4" style="font-size: 16.4pt;" aria-label="Programming company in UAE">شركة برمجة بالإمارات</a>
+                                    <a href="{{route('front.home')}}" class="tag-cloud-link tag-link-39 tag-link-position-5" style="font-size: 16.4pt;" aria-label="Programming company in Saudi Arabia">شركة برمجة بالسعودية</a>
+                                    <a href="{{route('front.home')}}" class="tag-cloud-link tag-link-36 tag-link-position-6" style="font-size: 8pt;" aria-label="Programming company in Kuwait">شركة برمجة بالكويت</a>
+                                    <a href="{{route('front.home')}}" class="tag-cloud-link tag-link-33 tag-link-position-7" style="font-size: 8pt;" aria-label="Programming company in Qatar">شركة برمجة بقطر</a>
 
                                 </div>
                             </aside>
