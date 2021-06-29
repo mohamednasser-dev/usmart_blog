@@ -17,13 +17,13 @@
     <meta name="keywords" content="شركة تصميم وبرمجة تطبيقات الايفون والاندوريد ,تطبيقات الجوال ,تطبيقات الهواتف الذكية ,تصميم تطبيقات الاندرويد, برمجة تطبيقات الاندرويد, تصميم تطبيقات الايفون, برمجة تطبيقات الايفون,تصميم تطبيقات الهواتف الذكية ,برمجة تطبيقات الهواتف المحمول بالكويت ,شركة تطبيقات هواتف ذكية ,شركة برمجة تطبيقات هواتف ذكية ,تصميم تطبيقات هواتف ذكية ,تصميم تطبيقات ايفون لهواتف ذكية ,برمجة تطبيق اندرويد لهاتف ذكى ,افضل شركة برمجة تطبيقات هواتف ذكية ,تطبيقات جوال ,تطبيقات هاتف ذكي ,شركة تطبيقات جوال ,تصميم تطبيقات الاندرويد , برمجة تطبيقات الاندرويد ,شركة برمجة ,شركة برمجة تطبيقات الايفون, تصميم تطبيقات الايفون, برمجة تطبيقات الايفون,شركة تصميم تطبيقات الايفون ,شركات تصميم برامج الايفون ,شركة تصميم تطبيقات الجوال ,شركات برمجة تطبيقات الجوال ,شركات تطبيقات الجوال ,شركات تصميم تطبيقات الاندرويد ,شركات برمجة تطبيقات الايفون ,شركات تصميم تطبيقات الايفون ,شركة تصميم برامج الاندرويد ,شركة تطبيقات هواتف ذكيه ,شركة لعمل تطبيقات الجوال ,شركة تطبيقات الهواتف المحمول ,يوسمارت ,شركة يو سمارت ">
 
 
-    <link type="text/css" media="all" href="/front/css/services.css" rel="stylesheet" />
-    <link type="text/css" media="all" href="/front/css/bootstrap.css" rel="stylesheet">
-    <link type="text/css" media="all" href="/front/css/plugins.css" rel="stylesheet" />
-    <link type="text/css" media="all" href="/front/css/plugins2.css" rel="stylesheet" />
-    <link rel="stylesheet" media="all" type="text/css" href="/front/css/font-awesome.min.css">
-    <link rel="stylesheet" media="all" type="text/css" href="/front/css/owl.carousel.min.css">
-    <link type="text/css" media="all" href="/front/css/style.min.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/services.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/bootstrap.css" rel="stylesheet">
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/plugins.css" rel="stylesheet" />
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/plugins2.css" rel="stylesheet" />
+    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/public/front/css/font-awesome.min.css">
+    <link rel="stylesheet" media="all" type="text/css" href="{{url('/')}}/public/front/css/owl.carousel.min.css">
+    <link type="text/css" media="all" href="{{url('/')}}/public/front/css/style.min.css" rel="stylesheet" />
 
     <script>
         /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
@@ -45,7 +45,7 @@
     <script type="text/javascript">
         window._wpemojiSettings = { "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/", "ext": ".png", "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/", "svgExt": ".svg", "source": { "concatemoji": "https:\/\/x-theme.com\/avas-default\/wp-includes\/js\/wp-emoji-release.min.js" } };
         !function (a, b, c) { function d(a, b) { var c = String.fromCharCode; l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0); var d = k.toDataURL(); l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0); var e = k.toDataURL(); return d === e } function e(a) { var b; if (!l || !l.fillText) return !1; switch (l.textBaseline = "top", l.font = "600 32px Arial", a) { case "flag": return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b); case "emoji": return b = d([55357, 56424, 55356, 57342, 8205, 55358, 56605, 8205, 55357, 56424, 55356, 57340], [55357, 56424, 55356, 57342, 8203, 55358, 56605, 8203, 55357, 56424, 55356, 57340]), !b }return !1 } function f(a) { var c = b.createElement("script"); c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c) } var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d"); for (j = Array("flag", "emoji"), c.supports = { everything: !0, everythingExceptFlag: !0 }, i = 0; i < j.length; i++)c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]); c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () { c.DOMReady = !0 }, c.supports.everything || (h = function () { c.readyCallback() }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () { "complete" === b.readyState && c.readyCallback() })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji))) }(window, document, window._wpemojiSettings);</script>
-    <link rel='stylesheet' id='dashicons-css' href='/front/css/dashicons.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='dashicons-css' href='{{url('/')}}/public/front/css/dashicons.min.css' type='text/css' media='all' />
     <script type='text/javascript' src='js/jquery.js'></script>
 
 
@@ -92,7 +92,7 @@
                                         <aside id="text-4" class="widget widget_text">
                                             <div class="textwidget text-right">
                                                 <p>
-                                                    <img src="/front/images/logo-light.png" />
+                                                    <img src="{{url('/')}}/public/front/images/logo-light.png" />
                                                 </p>
                                                 <p>يمكنك متابعة صفحات التواصل الاجتماعي الخاصة بالشركة</p>
                                                 <ul class="social">
@@ -149,9 +149,9 @@
                             <div class="col-md-2">
                                 <div class="navbar-header">
                                     <a class="navbar-brand bddex_logo" href="{{route('front.home')}}" title="">
-                                        <img src="/front/images/logotype2.png" alt="" />
+                                        <img src="{{url('/')}}/public/front/images/logotype2.png" alt="" />
                                     </a> <a class="navbar-brand bddex_sticky_logo" href="{{route('front.home')}}" title="">
-                                        <img src="/front/images/avas-agency-logo-blue.png" alt="" />
+                                        <img src="{{url('/')}}/public/front/images/avas-agency-logo-blue.png" alt="" />
                                     </a>
 
                                     <div id="bddex-hamburger" class="bddex-hamburger">
@@ -255,13 +255,13 @@
                                                                         <div class="elementor-element elementor-element-278b7f73 elementor-widget elementor-widget-bddex-interactive-promo" data-id="278b7f73" data-element_type="widget" data-widget_type="bddex-interactive-promo.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <div id="bddex-promo-278b7f73" class="bddex-interactive-promo">
-                                                                                    <figure class="effect-bubba"> <img alt="" src="/front/images/design.jpg"><figcaption><div><h2>Design</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure>
+                                                                                    <figure class="effect-bubba"> <img alt="" src="{{url('/')}}/public/front/images/design.jpg"><figcaption><div><h2>Design</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                            </div><div class="elementor-element elementor-element-14e5c882 elementor-column elementor-col-25 elementor-top-column" data-id="14e5c882" data-element_type="column"><div class="elementor-column-wrap  elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-2dfb3360 elementor-widget elementor-widget-bddex-interactive-promo" data-id="2dfb3360" data-element_type="widget" data-widget_type="bddex-interactive-promo.default"><div class="elementor-widget-container"><div id="bddex-promo-2dfb3360" class="bddex-interactive-promo"><figure class="effect-bubba"> <img alt="" src="/front/images/development.jpg"><figcaption><div><h2>Development</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure></div></div></div></div></div></div><div class="elementor-element elementor-element-73c761b5 elementor-column elementor-col-25 elementor-top-column" data-id="73c761b5" data-element_type="column"><div class="elementor-column-wrap  elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-33637a0e elementor-widget elementor-widget-bddex-interactive-promo" data-id="33637a0e" data-element_type="widget" data-widget_type="bddex-interactive-promo.default"><div class="elementor-widget-container"><div id="bddex-promo-33637a0e" class="bddex-interactive-promo"><figure class="effect-bubba"> <img alt="" src="/front/images/writing.jpg"><figcaption><div><h2>Writing</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure></div></div></div></div></div></div><div class="elementor-element elementor-element-4c44480c elementor-column elementor-col-25 elementor-top-column" data-id="4c44480c" data-element_type="column"><div class="elementor-column-wrap  elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5f46fd17 elementor-widget elementor-widget-bddex-interactive-promo" data-id="5f46fd17" data-element_type="widget" data-widget_type="bddex-interactive-promo.default"><div class="elementor-widget-container"><div id="bddex-promo-5f46fd17" class="bddex-interactive-promo"><figure class="effect-bubba"> <img alt="" src="/front/images/ecommernce.jpg"><figcaption><div><h2>e-Commerce</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure></div></div></div></div></div></div>
+                                                            </div><div class="elementor-element elementor-element-14e5c882 elementor-column elementor-col-25 elementor-top-column" data-id="14e5c882" data-element_type="column"><div class="elementor-column-wrap  elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-2dfb3360 elementor-widget elementor-widget-bddex-interactive-promo" data-id="2dfb3360" data-element_type="widget" data-widget_type="bddex-interactive-promo.default"><div class="elementor-widget-container"><div id="bddex-promo-2dfb3360" class="bddex-interactive-promo"><figure class="effect-bubba"> <img alt="" src="{{url('/')}}/public/front/images/development.jpg"><figcaption><div><h2>Development</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure></div></div></div></div></div></div><div class="elementor-element elementor-element-73c761b5 elementor-column elementor-col-25 elementor-top-column" data-id="73c761b5" data-element_type="column"><div class="elementor-column-wrap  elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-33637a0e elementor-widget elementor-widget-bddex-interactive-promo" data-id="33637a0e" data-element_type="widget" data-widget_type="bddex-interactive-promo.default"><div class="elementor-widget-container"><div id="bddex-promo-33637a0e" class="bddex-interactive-promo"><figure class="effect-bubba"> <img alt="" src="{{url('/')}}/public/front/images/writing.jpg"><figcaption><div><h2>Writing</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure></div></div></div></div></div></div><div class="elementor-element elementor-element-4c44480c elementor-column elementor-col-25 elementor-top-column" data-id="4c44480c" data-element_type="column"><div class="elementor-column-wrap  elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5f46fd17 elementor-widget elementor-widget-bddex-interactive-promo" data-id="5f46fd17" data-element_type="widget" data-widget_type="bddex-interactive-promo.default"><div class="elementor-widget-container"><div id="bddex-promo-5f46fd17" class="bddex-interactive-promo"><figure class="effect-bubba"> <img alt="" src="{{url('/')}}/public/front/images/ecommernce.jpg"><figcaption><div><h2>e-Commerce</h2><p>Suspendisse potenti Phasellus euismod libero in neque molestie et mentum libero maximus.</p></div> <a href="#" target="_self"></a></figcaption></figure></div></div></div></div></div></div>
                                                         </div>
                                                     </div>
                                                 </section>-->
@@ -343,82 +343,82 @@
                                                                                     <ul class="flip-items">
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/dinar/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/dinar.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/dinar.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/lacachette.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/lacachette.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/pfs/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/pfs.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/pfs.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/mazad/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/mazad.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/mazad.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="#" target="_blank">
-                                                                                                <img src="/front/images/slider/gas.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/gas.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/icome/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/icome.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/icome.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/memo/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/memo.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/memo.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/m7lat/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/m7lat.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/m7lat.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/instadeal/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/instadeal.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/instadeal.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/bazaar/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/bazaar.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/bazaar.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/diet/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/diet.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/diet.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/saqr/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/saqr.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/saqr.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/order/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/order.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/order.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/ayati/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/ayati.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/ayati.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/alezz/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/alez.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/alez.png">
                                                                                             </a>
                                                                                         </li>
                                                                                         <li>
                                                                                             <a href="http://u-smart.co/works/mostshar/{{route('front.home')}}" target="_blank">
-                                                                                                <img src="/front/images/slider/mostashar.png">
+                                                                                                <img src="{{url('/')}}/public/front/images/slider/mostashar.png">
                                                                                             </a>
                                                                                         </li>
                                                                                     </ul>
@@ -498,7 +498,7 @@
                                                                                             <article id="post-2195" class="post-2195 service type-service status-publish has-post-thumbnail hentry">
                                                                                                 <div class="lae-project-image">
                                                                                                     <a href="{{route('front.mobile_applications')}}">
-                                                                                                        <img width="1024" height="438" src="/front/images/app-development.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="/front/images/app-development.jpg 1024w, images/app-development.jpg 300w, images/app-development.jpg 768w, images/app-development.jpg 600w, images/app-development.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                                                        <img width="1024" height="438" src="{{url('/')}}/public/front/images/app-development.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="{{url('/')}}/public/front/images/app-development.jpg 1024w, images/app-development.jpg 300w, images/app-development.jpg 768w, images/app-development.jpg 600w, images/app-development.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
                                                                                                     </a>
                                                                                                     <div class="lae-image-info">
                                                                                                         <div class="lae-entry-info">
@@ -506,7 +506,7 @@
                                                                                                                 <a href="{{route('front.mobile_applications')}}" title="تطبيقات الجوال" rel="bookmark">تطبيقات الجوال</a>
                                                                                                             </h3>
                                                                                                         </div>
-                                                                                                        <a class="lae-lightbox-item" href="/front/images/app-development.jpg" title="Mobile Applications">
+                                                                                                        <a class="lae-lightbox-item" href="{{url('/')}}/public/front/images/app-development.jpg" title="Mobile Applications">
                                                                                                             <i class="lae-icon-full-screen"></i>
                                                                                                         </a>
                                                                                                     </div>
@@ -527,14 +527,14 @@
                                                                                             <article id="post-2193" class="post-2193 service type-service status-publish has-post-thumbnail hentry">
                                                                                                 <div class="lae-project-image">
                                                                                                     <a href="{{route('front.web_design')}}">
-                                                                                                        <img width="1024" height="438" src="/front/images/Responsive-design.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="/front/images/Responsive-design.jpg 1024w, images/Responsive-design.jpg 300w, images/Responsive-design.jpg 768w, images/Responsive-design.jpg 600w, images/Responsive-design.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                                                        <img width="1024" height="438" src="{{url('/')}}/public/front/images/Responsive-design.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="{{url('/')}}/public/front/images/Responsive-design.jpg 1024w, images/Responsive-design.jpg 300w, images/Responsive-design.jpg 768w, images/Responsive-design.jpg 600w, images/Responsive-design.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
                                                                                                     </a><div class="lae-image-info">
                                                                                                         <div class="lae-entry-info">
                                                                                                             <h3 class="lae-post-title">
                                                                                                                 <a href="{{route('front.web_design')}}" title="تصميم المواقع" rel="bookmark">تصميم المواقع</a>
                                                                                                             </h3>
                                                                                                         </div>
-                                                                                                        <a class="lae-lightbox-item" href="/front/images/Responsive-design.jpg" title="تصميم المواقع">
+                                                                                                        <a class="lae-lightbox-item" href="{{url('/')}}/public/front/images/Responsive-design.jpg" title="تصميم المواقع">
                                                                                                             <i class="lae-icon-full-screen"></i>
                                                                                                         </a>
                                                                                                     </div>
@@ -551,12 +551,12 @@
                                                                                         <div data-id="id-2191" class="lae-portfolio-item  lae-fourcol lae-zero-margin">
                                                                                             <article id="post-2191" class="post-2191 service type-service status-publish has-post-thumbnail hentry">
                                                                                                 <div class="lae-project-image">
-                                                                                                    <a href="{{route('front.hosting')}}"> <img width="1024" height="438" src="/front/images/Innovative-technologies.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="/front/images/Innovative-technologies.jpg 1024w, images/Innovative-technologies.jpg 300w, images/Innovative-technologies.jpg 768w, images/Innovative-technologies.jpg 600w, images/Innovative-technologies.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /> </a><div class="lae-image-info">
+                                                                                                    <a href="{{route('front.hosting')}}"> <img width="1024" height="438" src="{{url('/')}}/public/front/images/Innovative-technologies.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="{{url('/')}}/public/front/images/Innovative-technologies.jpg 1024w, images/Innovative-technologies.jpg 300w, images/Innovative-technologies.jpg 768w, images/Innovative-technologies.jpg 600w, images/Innovative-technologies.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /> </a><div class="lae-image-info">
                                                                                                         <div class="lae-entry-info">
                                                                                                             <h3 class="lae-post-title">
                                                                                                                 <a href="{{route('front.hosting')}}" title="استضافة المواقع" rel="bookmark">استضافة المواقع</a>
                                                                                                             </h3>
-                                                                                                        </div> <a class="lae-lightbox-item" href="/front/images/Innovative-technologies.jpg" title="Innovative Technologies"><i class="lae-icon-full-screen"></i></a>
+                                                                                                        </div> <a class="lae-lightbox-item" href="{{url('/')}}/public/front/images/Innovative-technologies.jpg" title="Innovative Technologies"><i class="lae-icon-full-screen"></i></a>
                                                                                                     </div><div class="lae-image-overlay"></div>
                                                                                                 </div>
                                                                                                 <div class="lae-entry-text-wrap ">
@@ -574,13 +574,13 @@
                                                                                         <div data-id="id-2189" class="lae-portfolio-item  lae-fourcol lae-zero-margin">
                                                                                             <article id="post-2189" class="post-2189 service type-service status-publish has-post-thumbnail hentry">
                                                                                                 <div class="lae-project-image">
-                                                                                                    <a href="{{route('front.page_cms')}}"> <img width="1024" height="438" src="/front/images/Responsive-design-1024x438.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="/front/images/Responsive-design.jpg 1024w, images/Responsive-design.jpg 300w, images/Responsive-design.jpg 768w, images/Responsive-design.jpg 600w, images/Responsive-design.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /> </a><div class="lae-image-info">
+                                                                                                    <a href="{{route('front.page_cms')}}"> <img width="1024" height="438" src="{{url('/')}}/public/front/images/Responsive-design-1024x438.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="{{url('/')}}/public/front/images/Responsive-design.jpg 1024w, images/Responsive-design.jpg 300w, images/Responsive-design.jpg 768w, images/Responsive-design.jpg 600w, images/Responsive-design.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" /> </a><div class="lae-image-info">
                                                                                                         <div class="lae-entry-info">
                                                                                                             <h3 class="lae-post-title">
                                                                                                                 <a href="{{route('front.page_cms')}}" title="خدمة مركز إدارة محتوى التطبيقات" rel="bookmark">خدمة مركز إدارة محتوى التطبيقات</a>
                                                                                                             </h3>
                                                                                                         </div>
-                                                                                                        <a class="lae-lightbox-item" href="/front/images/Responsive-design.jpg" title="خدمة مركز إدارة محتوى التطبيقات">
+                                                                                                        <a class="lae-lightbox-item" href="{{url('/')}}/public/front/images/Responsive-design.jpg" title="خدمة مركز إدارة محتوى التطبيقات">
                                                                                                             <i class="lae-icon-full-screen"></i>
                                                                                                         </a>
                                                                                                     </div><div class="lae-image-overlay">
@@ -601,7 +601,7 @@
                                                                                             <article id="post-2187" class="post-2187 service type-service status-publish has-post-thumbnail hentry">
                                                                                                 <div class="lae-project-image">
                                                                                                     <a href="video-ads.html">
-                                                                                                        <img width="1024" height="438" src="/front/images/Product-Branding-1024x438.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="/front/images/Product-Branding.jpg 1024w, images/Product-Branding.jpg 300w, images/Product-Branding.jpg 768w, images/Product-Branding.jpg 600w, images/Product-Branding.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                                                        <img width="1024" height="438" src="{{url('/')}}/public/front/images/Product-Branding-1024x438.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="{{url('/')}}/public/front/images/Product-Branding.jpg 1024w, images/Product-Branding.jpg 300w, images/Product-Branding.jpg 768w, images/Product-Branding.jpg 600w, images/Product-Branding.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
                                                                                                     </a>
                                                                                                     <div class="lae-image-info">
                                                                                                         <div class="lae-entry-info">
@@ -609,7 +609,7 @@
                                                                                                                 <a href="video-ads.html" title="إيموشن جرافيك" rel="bookmark">إيموشن جرافيك</a>
                                                                                                             </h3>
                                                                                                         </div>
-                                                                                                        <a class="lae-lightbox-item" href="/front/images/Product-Branding.jpg" title="إيموشن جرافيك"><i class="lae-icon-full-screen"></i></a>
+                                                                                                        <a class="lae-lightbox-item" href="{{url('/')}}/public/front/images/Product-Branding.jpg" title="إيموشن جرافيك"><i class="lae-icon-full-screen"></i></a>
                                                                                                     </div><div class="lae-image-overlay">
                                                                                                     </div>
                                                                                                 </div>
@@ -625,7 +625,7 @@
                                                                                             <article id="post-1933" class="post-1933 service type-service status-publish has-post-thumbnail hentry">
                                                                                                 <div class="lae-project-image">
                                                                                                     <a href="http://marketing.u-smart.co">
-                                                                                                        <img width="1024" height="438" src="/front/images/digital-marketing-1024x438.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="/front/images/digital-marketing.jpg 1024w, images/digital-marketing.jpg 300w, images/digital-marketing.jpg 768w, images/digital-marketing.jpg 600w, images/digital-marketing.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                                                        <img width="1024" height="438" src="{{url('/')}}/public/front/images/digital-marketing-1024x438.jpg" class="attachment-large size-large wp-post-image" alt="" srcset="{{url('/')}}/public/front/images/digital-marketing.jpg 1024w, images/digital-marketing.jpg 300w, images/digital-marketing.jpg 768w, images/digital-marketing.jpg 600w, images/digital-marketing.jpg 1170w" sizes="(max-width: 1024px) 100vw, 1024px" />
                                                                                                     </a>
                                                                                                     <div class="lae-image-info">
                                                                                                         <div class="lae-entry-info">
@@ -633,7 +633,7 @@
                                                                                                                 <a href="http://marketing.u-smart.co" title="التسويق وإدارة السوشيال ميديا" rel="bookmark">التسويق وإدارة السوشيال ميديا</a>
                                                                                                             </h3>
                                                                                                         </div>
-                                                                                                        <a class="lae-lightbox-item" href="/front/images/digital-marketing.jpg" title="التسويق وإدارة السوشيال ميديا">
+                                                                                                        <a class="lae-lightbox-item" href="{{url('/')}}/public/front/images/digital-marketing.jpg" title="التسويق وإدارة السوشيال ميديا">
                                                                                                             <i class="lae-icon-full-screen"></i>
                                                                                                         </a>
                                                                                                     </div>
@@ -704,7 +704,7 @@
                                     <div class="rpost">
                                         <div class="rpthumb">
                                             <a href="http://u-smart.co/works/instadeal/{{route('front.home')}}">
-                                                <img width="100" height="75" src="/front/images/instadeal.jpg" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" alt="" />
+                                                <img width="100" height="75" src="{{url('/')}}/public/front/images/instadeal.jpg" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" alt="" />
                                             </a>
                                         </div>
                                         <div class="rpt">
@@ -717,7 +717,7 @@
                                     </div>
                                     <div class="rpost">
                                         <div class="rpthumb">
-                                            <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}"><img width="100" height="75" src="/front/images/lacachette.jpeg" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" alt="" /></a>
+                                            <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}"><img width="100" height="75" src="{{url('/')}}/public/front/images/lacachette.jpeg" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" alt="" /></a>
                                         </div>
                                         <div class="rpt">
                                             <a class="post-title-color" href="http://u-smart.co/works/lacachette/{{route('front.home')}}">تطبيق لاكشيت</a>
@@ -731,7 +731,7 @@
                                     <div class="rpost">
                                         <div class="rpthumb">
                                             <a href="http://u-smart.co/works/mazad/{{route('front.home')}}">
-                                                <img width="100" height="75" src="/front/images/mazad.jpg" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" alt="" />
+                                                <img width="100" height="75" src="{{url('/')}}/public/front/images/mazad.jpg" class="attachment-bddex-small-img size-bddex-small-img wp-post-image" alt="" />
                                             </a>
                                         </div>
                                         <div class="rpt">
@@ -829,7 +829,7 @@
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
         gtag('config', 'UA-129865377-1');</script>
-    <script type="text/javascript" defer src="/front/js/autoptimize_0e648fa040b931f6d61b0ad0289eee55.js"></script>
+    <script type="text/javascript" defer src="{{url('/')}}/public/front/js/autoptimize_0e648fa040b931f6d61b0ad0289eee55.js"></script>
 
 
     <style>
@@ -866,7 +866,7 @@
         <div class="style4 animated no-animation ccw-no-hover-an">
             <a class="whatsapplink" target="_blank" href="https://api.whatsapp.com/send?phone=96550464494‬&text=السلام عليكم ورحمة الله وبركاته" class="nofocus">
                 <div class="chip style-4 ccw-analytics" id="style-4" data-ccw="style-4" style="background-color: #e4e4e4; color: rgba(0, 0, 0, 0.6)">
-                    <img src="/front/images/whatsapp.png" class="ccw-analytics" id="s4-icon" data-ccw="style-4" alt="WhatsApp">
+                    <img src="{{url('/')}}/public/front/images/whatsapp.png" class="ccw-analytics" id="s4-icon" data-ccw="style-4" alt="WhatsApp">
                     تواصل واتساب الآن... اضغط هنا
                 </div>
             </a>
