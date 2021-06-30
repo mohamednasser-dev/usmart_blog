@@ -33,6 +33,19 @@ Route::get('/work/instadeal' , 'FrontController@work_instadeal')->name('front.wo
 Route::get('/work/icome' , 'FrontController@work_icome')->name('front.work.icome');
 Route::get('/work/lacachette' , 'FrontController@work_lacachette')->name('front.work.lacachette');
 Route::get('/work/mazad' , 'FrontController@work_mazad')->name('front.work.mazad');
+Route::get('/work/pfs' , 'FrontController@work_pfs')->name('front.work.pfs');
+Route::get('/work/gas' , 'FrontController@work_gas')->name('front.work.gas');
+Route::get('/work/memo' , 'FrontController@work_memo')->name('front.work.memo');
+Route::get('/work/bazaar' , 'FrontController@work_bazaar')->name('front.work.bazaar');
+Route::get('/work/diet' , 'FrontController@work_diet')->name('front.work.diet');
+Route::get('/work/dinar' , 'FrontController@work_dinar')->name('front.work.dinar');
+Route::get('/work/alezz' , 'FrontController@work_alezz')->name('front.work.alezz');
+Route::get('/work/hope' , 'FrontController@work_hope')->name('front.work.hope');
+Route::get('/work/ayati' , 'FrontController@work_ayati')->name('front.work.ayati');
+Route::get('/work/saqr' , 'FrontController@work_saqr')->name('front.work.saqr');
+Route::get('/work/order' , 'FrontController@work_order')->name('front.work.order');
+Route::get('/work/mostshar' , 'FrontController@work_mostshar')->name('front.work.mostshar');
+Route::get('/work/m7lat' , 'FrontController@work_m7lat')->name('front.work.m7lat');
 
 // front blog pages
 Route::get('/blog/design_iphone' , 'BlogController@design_iphone')->name('front.blog.design_iphone');

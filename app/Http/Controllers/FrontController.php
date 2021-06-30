@@ -68,5 +68,56 @@ class FrontController extends Controller
         return view('front.works.mazad.index');
     }
 
+    public function work_m7lat(){
+        return view('front.works.m7lat.index');
+    }
+
+    public function work_mostshar(){
+        return view('front.works.mostshar.index');
+    }
+
+    public function work_order(){
+        return view('front.works.order.index');
+    }
+
+    public function work_saqr(){
+        return view('front.works.saqr.index');
+    }
+
+    public function work_ayati(){
+        return view('front.works.ayati.index');
+    }
+
+    public function work_hope(){
+        return view('front.works.hope.index');
+    }
+
+    public function work_alezz(){
+        return view('front.works.alezz.index');
+    }
+
+    public function work_dinar(){
+        return view('front.works.dinar.index');
+    }
+
+    public function work_diet(){
+        return view('front.works.diet.index');
+    }
+
+    public function work_bazaar(){
+        return view('front.works.bazaar.index');
+    }
+
+    public function work_memo(){
+        return view('front.works.memo.index');
+    }
+
+    public function work_gas(){
+        return view('front.works.gas.index');
+    }
+    public function work_pfs(){
+        return view('front.works.pfs.index');
+    }
+
 
 }

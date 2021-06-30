@@ -234,13 +234,13 @@
                                                             <!-- Start Demo Item #01 -->
                                                             <div class="col-sm-6 col-lg-3 Ecommerce">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/instadeal/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.instadeal')}}"  target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/instadeal.jpg" alt="instadeal" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/instadeal/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.instadeal')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -254,13 +254,13 @@
                                                             <!-- Start Demo Item #02 -->
                                                             <div class="col-sm-6 col-lg-3 Food">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/icome/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.icome')}}"  target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/icome.jpg" alt="PFS" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/icome/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch"href="{{route('front.work.icome')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -274,13 +274,13 @@
                                                             <!-- Start Demo Item #03 -->
                                                             <div class="col-sm-6 col-lg-3 Ecommerce">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/lacachette/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.lacachette')}}"  target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/lacachette.jpg" alt="Lacachette" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/lacachette/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.lacachette')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -294,13 +294,13 @@
                                                             <!-- Start Demo Item #04 -->
                                                             <div class="col-sm-6 col-lg-3 Ecommerce Marketing">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/mazad/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.mazad')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/mazad.jpg" alt="Cham Agool" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/mazad/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.mazad')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -316,13 +316,13 @@
                                                             <!-- Start Demo Item #01 -->
                                                             <div class="col-sm-6 col-lg-3 Bussiness">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/gas/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.gas')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/gas.jpg" alt="Gas" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/gas/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.gas')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -336,13 +336,13 @@
                                                             <!-- Start Demo Item #02 -->
                                                             <div class="col-sm-6 col-lg-3 Ecommerce Marketing">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/pfs/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.pfs')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/pfs.jpg" alt="PFS" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/pfs/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.pfs')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -356,13 +356,13 @@
                                                             <!-- Start Demo Item #03 -->
                                                             <div class="col-sm-6 col-lg-3 Social">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/memo/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.memo')}}"  target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/memo.jpg" alt="My Memmo" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/memo/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.memo')}}"  target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -376,13 +376,13 @@
                                                             <!-- Start Demo Item #04 -->
                                                             <div class="col-sm-6 col-lg-3 ads Marketing">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/bazaar/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.bazaar')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/bazar.jpg" alt="Bazaar" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/bazaar/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.bazaar')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -400,13 +400,13 @@
                                                             <!-- Start Demo Item #01 -->
                                                             <div class="col-sm-6 col-lg-3 Food">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/diet/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.diet')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/diet.jpg" alt="Gas" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/diet/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.diet')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -420,13 +420,13 @@
                                                             <!-- Start Demo Item #02 -->
                                                             <div class="col-sm-6 col-lg-3 ads Marketing">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/dinar/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.dinar')}}"  target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/dinar.jpg" alt="Dinar" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/dinar/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.dinar')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -440,13 +440,13 @@
                                                             <!-- Start Demo Item #03 -->
                                                             <div class="col-sm-6 col-lg-3 Bussiness">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/alezz/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.alezz')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/alez.jpg" alt="Alezz" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/alezz/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.alezz')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -460,13 +460,13 @@
                                                             <!-- Start Demo Item #04 -->
                                                             <div class="col-sm-6 col-lg-3 Social">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/hope/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.hope')}}"  target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/hope.jpg" alt="Hope" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/hope/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.hope')}}"  target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -484,13 +484,13 @@
                                                             <!-- Start Demo Item #01 -->
                                                             <div class="col-sm-6 col-lg-3 help">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/ayati/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.ayati')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/ayati.jpg" alt="Gas" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/ayati/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.ayati')}}"  target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -504,13 +504,13 @@
                                                             <!-- Start Demo Item #02 -->
                                                             <div class="col-sm-6 col-lg-3 Bussiness Marketing">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/m7lat/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.m7lat')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/m7lat.jpg" alt="Dinar" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/m7lat/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.m7lat')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -524,13 +524,13 @@
                                                             <!-- Start Demo Item #03 -->
                                                             <div class="col-sm-6 col-lg-3 Food">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/order/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.order')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/order.jpg" alt="Alezz" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/order/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.order')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -544,13 +544,13 @@
                                                             <!-- Start Demo Item #04 -->
                                                             <div class="col-sm-6 col-lg-3 Bussiness">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/mostshar/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.mostshar')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/mostashar.jpg" alt="Mostshar" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/mostshar/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.mostshar')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
@@ -566,13 +566,13 @@
                                                             <!-- Start Demo Item #01 -->
                                                             <div class="col-sm-6 col-lg-3 Ecommerce">
                                                                 <div class="demo-item">
-                                                                    <a href="http://u-smart.co/works/saqr/{{route('front.home')}}" target="_blank">
+                                                                    <a href="{{route('front.work.saqr')}}" target="_blank">
                                                                         <div class="demo-item__top"></div>
                                                                         <figure class="demo-item__middile">
                                                                             <img src="{{url('/')}}/public/front/images/Apps/saqr.jpg" alt="Saqr" />
 
                                                                             <figcaption class="hvr-content">
-                                                                                <a class="btn-launch" href="http://u-smart.co/works/saqr/{{route('front.home')}}" target="_blank">عرض التفاصيل</a>
+                                                                                <a class="btn-launch" href="{{route('front.work.saqr')}}" target="_blank">عرض التفاصيل</a>
                                                                             </figcaption>
                                                                         </figure>
                                                                         <div class="demo-item__bottom">
